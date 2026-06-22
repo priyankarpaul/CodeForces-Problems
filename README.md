@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 301 | 24 |
+| 302 | 24 |
 
 ---
 
@@ -29,12 +29,12 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (94)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (149)
+- [implementation](#implementation) (150)
 - [math](#math) (105)
 - [number theory](#number-theory) (24)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (40)
-- [strings](#strings) (39)
+- [strings](#strings) (40)
 - [two pointers](#two-pointers) (5)
 
 ---
@@ -503,6 +503,7 @@
 | 808A | [Lucky Year](https://codeforces.com/contest/808/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/808/A%20-%20Lucky%20Year/solution.cpp) |
 | 812A | [Sagheer and Crossroads](https://codeforces.com/contest/812/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/812/A%20-%20Sagheer%20and%20Crossroads/solution.cpp) |
 | 825A | [Binary Protocol](https://codeforces.com/contest/825/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/825/A%20-%20Binary%20Protocol/solution.cpp) |
+| 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
 | 892A | [Greed](https://codeforces.com/contest/892/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/892/A%20-%20Greed/solution.cpp) |
 | 911A | [Nearest Minimums](https://codeforces.com/contest/911/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/911/A%20-%20Nearest%20Minimums/solution.cpp) |
 | 922A | [Cloning Toys](https://codeforces.com/contest/922/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/922/A%20-%20Cloning%20Toys/solution.cpp) |
@@ -760,6 +761,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
+| 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/977/B%20-%20Two-gram/solution.cpp) |
 | 1038A | [Equality](https://codeforces.com/contest/1038/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1038/A%20-%20Equality/solution.cpp) |
 | 1073A | [Diverse Substring](https://codeforces.com/contest/1073/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1073/A%20-%20Diverse%20Substring/solution.cpp) |
