@@ -1,0 +1,19 @@
+co gcd {
+  eq [2] [0] 0
+  if [2]
+    ac
+  set [2] [1]
+  set [1] [0]
+  mod [0] [2] [1]
+}
+ 
+iin [0]
+iin [1]
+set [3] [0]
+set [4] [1]
+ca gcd
+/* now  [1] is gcd */
+div [5] [3] [1]
+mul [5] [5] [4]
+iout [5]
+ac
