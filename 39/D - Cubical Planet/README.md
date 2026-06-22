@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/39/problem/D" target="_blank" rel="noopener noreferrer">39D — Cubical Planet</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1100 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 39D](https://codeforces.com/contest/39/problem/D) |
+
+## Topics
+`math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">D. Cubical Planet</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>You can find anything whatsoever in our Galaxy! A cubical planet goes round an icosahedral star. Let us introduce a system of axes so that the edges of the cubical planet are parallel to the coordinate axes and two opposite vertices lay in the points <span class="tex-span">(0, 0, 0)</span> and <span class="tex-span">(1, 1, 1)</span>. Two flies live on the planet. At the moment they are sitting on two different vertices of the cubical planet. Your task is to determine whether they see each other or not. The flies see each other when the vertices they occupy lie on the same face of the cube.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains three space-separated integers (<span class="tex-span">0</span> or <span class="tex-span">1</span>) — the coordinates of the first fly, the second line analogously contains the coordinates of the second fly.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output "YES" (without quotes) if the flies see each other. Otherwise, output "NO".</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005085104434608583" id="id002770825628118545" class="input-output-copier">Copy</div></div><pre id="id005085104434608583">0 0 0<br>0 1 0<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0013861461134188158" id="id003227051021251458" class="input-output-copier">Copy</div></div><pre id="id0013861461134188158">YES<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008269630843775891" id="id0026842645018544087" class="input-output-copier">Copy</div></div><pre id="id008269630843775891">1 1 0<br>0 1 0<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id003660187780907076" id="id0034118857868407304" class="input-output-copier">Copy</div></div><pre id="id003660187780907076">YES<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00508545104625769" id="id003080940074734264" class="input-output-copier">Copy</div></div><pre id="id00508545104625769">0 0 0<br>1 1 1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id003389056427063232" id="id009177819317856643" class="input-output-copier">Copy</div></div><pre id="id003389056427063232">NO<br></pre></div></div></div>
