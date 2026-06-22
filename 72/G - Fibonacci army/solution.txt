@@ -1,0 +1,11 @@
+fib := method(n,
+    if(n == 1 or n == 2, return n)
+    return fib(n - 2) + fib(n - 1)
+)
+ 
+solve := method(
+    n := File standardInput readLine asNumber
+    fib(n) println
+)
+ 
+solve()
