@@ -1,18 +1,29 @@
-<h2><a href="https://codeforces.com/contest/2214/problem/B" target="_blank" rel="noopener noreferrer">2214B — Are You Smiling?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | Unrated |
-| **Language** | C++17 (GCC 7-32) |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 2214B](https://codeforces.com/contest/2214/problem/B) |
-
-## Topics
-`*special` `strings`
-
----
-
-## Problem Statement
-
-<div class="header"><div class="title">B. Are You Smiling?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Show us a smile! 😁</p></div><div class="output-specification"><div class="section-title">Output</div><p>For a properly chosen $$$\mathrm{?}$$$, the following equation holds: $$$\mathrm{U} + \mathrm{?} = \mathrm{HAPPY}$$$.</p><p>Output $$$\mathrm{?}$$$, a string consisting of uppercase letters and numbers. </p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0011447104173694833" id="id00610582102002448" class="input-output-copier">Copy</div></div><pre id="id0011447104173694833">show us your smile!
-</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0006560798308001137" id="id004765915896780485" class="input-output-copier">Copy</div></div><pre id="id0006560798308001137">     </pre></div></div></div>
+/*Author SungJinWoo18*/
+ 
+#include <bits/stdc++.h>
+using namespace std;
+ 
+#define ll              long long int
+#define ff              first
+#define ss              second
+#define pb              push_back
+const ll MOD = 1e9 + 7;
+ 
+void solve() {
+    cout<<"1F601"<<"
+";
+}
+int main(){
+    ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+ 
+#ifndef ONLINE_JUDGE
+    freopen("input.txt",  "r",  stdin);
+    freopen("output.txt", "w", stdout);
+#endif
+    int t = 1;
+    //cin >> t;
+    while (t--) {
+        solve();
+    }
+    return 0;
+}
