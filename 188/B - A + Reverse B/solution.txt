@@ -1,0 +1,21 @@
+/* coroutine to reverse a number [1] into [2] */
+co reverse {
+   eq [3] [1] 0
+   if [3]
+      ac
+ 
+   /* find current number modulo 10 */
+   mod [3] [1] 10
+   /* add it to reversed number */
+   mul [2] [2] 10
+   add [2] [2] [3] 
+   /* and divide current number */
+   div [1] [1] 10
+}
+ 
+iin [0]
+iin [1]
+ca reverse
+add [2] [2] [0]
+iout [2]
+ac
