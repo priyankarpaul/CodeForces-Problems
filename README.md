@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 299 | 24 |
+| 300 | 24 |
 
 ---
 
@@ -23,14 +23,14 @@
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (16)
 - [dsu](#dsu) (1)
-- [games](#games) (7)
+- [games](#games) (8)
 - [geometry](#geometry) (6)
 - [graph matchings](#graph-matchings) (4)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (94)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (148)
-- [math](#math) (104)
+- [math](#math) (105)
 - [number theory](#number-theory) (24)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (40)
@@ -250,6 +250,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
+| 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
 | 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
 | 1527B1 | [Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1527/B1%20-%20Palindrome%20Game%20(easy%20version)/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
@@ -580,6 +581,7 @@
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
+| 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
 | 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
 | 1285A | [Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1285/A%20-%20Mezo%20Playing%20Zoma/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
