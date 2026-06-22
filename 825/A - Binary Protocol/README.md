@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/825/problem/A" target="_blank" rel="noopener noreferrer">825A — Binary Protocol</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1100 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 825A](https://codeforces.com/contest/825/problem/A) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Binary Protocol</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Polycarp has just invented a new binary protocol for data transmission. He is encoding positive integer decimal number to binary string using following algorithm:</p><ul> <li> Each digit is represented with number of <span class="tex-font-style-tt">'1'</span> characters equal to the value of that digit (for <span class="tex-font-style-tt">0</span> it is zero ones). </li><li> Digits are written one by one in order corresponding to number and separated by single <span class="tex-font-style-tt">'0'</span> character. </li></ul><p>Though Polycarp learnt how to encode the numbers, he has no idea how to decode them back. Help him calculate the decoded number.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer number <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 89</span>) — length of the string <span class="tex-span"><i>s</i></span>.</p><p>The second line contains string <span class="tex-span"><i>s</i></span> — sequence of <span class="tex-font-style-tt">'0'</span> and <span class="tex-font-style-tt">'1'</span> characters, number in its encoded format. It is guaranteed that the number corresponding to the string is positive and doesn't exceed <span class="tex-span">10<sup class="upper-index">9</sup></span>. The string always starts with <span class="tex-font-style-tt">'1'</span>.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print the decoded number.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0029961107044708557" id="id006462093911636829" class="input-output-copier">Copy</div></div><pre id="id0029961107044708557">3<br>111<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005742091272166991" id="id00665424557970101" class="input-output-copier">Copy</div></div><pre id="id005742091272166991">3<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00858149258356852" id="id005328931023061821" class="input-output-copier">Copy</div></div><pre id="id00858149258356852">9<br>110011101<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008598957879842979" id="id007161425182811939" class="input-output-copier">Copy</div></div><pre id="id008598957879842979">2031<br></pre></div></div></div>
