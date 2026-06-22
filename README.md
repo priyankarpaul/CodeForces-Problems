@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 300 | 24 |
+| 301 | 24 |
 
 ---
 
@@ -29,7 +29,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (94)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (148)
+- [implementation](#implementation) (149)
 - [math](#math) (105)
 - [number theory](#number-theory) (24)
 - [shortest paths](#shortest-paths) (1)
@@ -504,6 +504,7 @@
 | 812A | [Sagheer and Crossroads](https://codeforces.com/contest/812/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/812/A%20-%20Sagheer%20and%20Crossroads/solution.cpp) |
 | 825A | [Binary Protocol](https://codeforces.com/contest/825/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/825/A%20-%20Binary%20Protocol/solution.cpp) |
 | 892A | [Greed](https://codeforces.com/contest/892/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/892/A%20-%20Greed/solution.cpp) |
+| 911A | [Nearest Minimums](https://codeforces.com/contest/911/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/911/A%20-%20Nearest%20Minimums/solution.cpp) |
 | 922A | [Cloning Toys](https://codeforces.com/contest/922/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/922/A%20-%20Cloning%20Toys/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/977/B%20-%20Two-gram/solution.cpp) |
