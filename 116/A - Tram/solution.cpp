@@ -1,0 +1,46 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+#define ll            long long int
+#define ff              first
+#define ss              second
+#define pb             push_back
+#define si             set <int>
+#define vi             vector <int>
+#define pii            pair <int, int>
+#define vpi            vector <pii>
+#define vpp            vector <pair<int, pii>>
+#define mii            map <int, int>
+#define mpi            map <pii, int>
+#define spi            set <pii>
+#define endl           "
+"
+#define double         long double
+const ll MOD = 1e9 + 7;
+ 
+void solve() {
+    
+    ll n;
+    cin>>n;
+    ll maxi=0;
+    ll sum=0;
+    while(n--){
+        ll a,b;
+        cin>>a>>b;
+        sum-=a;
+        sum+=b; 
+        maxi=max(maxi,sum);
+    }  
+    cout<<maxi<<"
+";
+}
+ 
+int main(){
+    ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+    int t = 1;
+    //cin >> t;
+    while (t--) {
+        solve();
+    }
+    return 0;
+}
