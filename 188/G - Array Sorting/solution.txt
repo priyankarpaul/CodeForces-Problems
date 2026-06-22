@@ -1,0 +1,45 @@
+iin [101]
+ 
+set [103] 1
+co init {
+   eq [104] [103] 101
+   if [104]
+      ac
+   set [[103]] 0
+   inc [103]
+}
+ca init
+ 
+set [103] 0
+co read {
+   eq [104] [103] [101]
+   if [104]
+      ac
+   iin [102]
+   inc [[102]]
+   inc [103]
+}
+ca read
+ 
+set [102] 1
+co print_sorted {
+   eq [104] [102] 101
+   if [104]
+      ac
+   set [103] 1
+   co print_one_number {
+      gt [104] [103] [[102]]
+      if [104]
+         ac
+      iout [102]
+      cout 32
+      inc [103]
+   }
+   /* due to coroutine property (!), call only for positive quantity of numbers*/
+   gt [104] [[102]] 0
+   if [104]
+      ca print_one_number
+   inc [102]
+}
+ca print_sorted
+ac 
