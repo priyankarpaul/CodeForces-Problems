@@ -6,21 +6,99 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 16 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [greedy](#greedy) (1)
+- [*special](#special) (2)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (5)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (5)
+- [math](#math) (4)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (4)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 835B | [The number on the board](https://codeforces.com/contest/835/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/835/B%20-%20The%20number%20on%20the%20board/solution.cpp) |
+| 2200A | [Eating Game](https://codeforces.com/contest/2200/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2200/A%20-%20Eating%20Game/solution.cpp) |
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+| 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
+| 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2200/C%20-%20Specialty%20String/solution.cpp) |
 
 ---
 
