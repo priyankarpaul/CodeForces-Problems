@@ -1,0 +1,33 @@
+/*Author SungJinWoo*/
+ 
+#include <bits/stdc++.h>
+using namespace std;
+ 
+#define ll              long long int
+#define ff              first
+#define ss              second
+#define pb              push_back
+const ll MOD = 1e9 + 7;
+void solve() {
+    ll n;
+    cin>>n;
+    vector<ll> arr(n-1);
+    ll sum=0;
+    for(int i=0;i<n-1;i++) cin>>arr[i];
+    for(int i=0;i<n-1;i++){
+        arr[i]*=-1;
+        sum+=arr[i];
+    }
+    
+   cout<<sum<<"
+";
+}
+int main(){
+    ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+    int t = 1;
+    cin >> t;
+    while (t--) {
+        solve();
+    }
+    return 0;
+}
