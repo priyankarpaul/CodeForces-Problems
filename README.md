@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 304 | 24 |
+| 305 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (12)
+- [*special](#special) (13)
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (11)
 - [bitmasks](#bitmasks) (13)
@@ -24,7 +24,7 @@
 - [dp](#dp) (17)
 - [dsu](#dsu) (1)
 - [games](#games) (8)
-- [geometry](#geometry) (6)
+- [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (4)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (94)
@@ -51,6 +51,7 @@
 | 188C | [LCM](https://codeforces.com/contest/188/problem/C) | 1400 | [Roco](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/188/C%20-%20LCM/solution.txt) |
 | 188D | [Asterisks](https://codeforces.com/contest/188/problem/D) | 1100 | [Roco](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/188/D%20-%20Asterisks/solution.txt) |
 | 188G | [Array Sorting](https://codeforces.com/contest/188/problem/G) | 1600 | [Roco](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/188/G%20-%20Array%20Sorting/solution.txt) |
+| 409G | [On a plane](https://codeforces.com/contest/409/problem/G) | 2200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/409/G%20-%20On%20a%20plane/solution.cpp) |
 | 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
 | 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
 | 2214C | [And?](https://codeforces.com/contest/2214/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2214/C%20-%20And%3F/solution.cpp) |
@@ -270,6 +271,7 @@
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
+| 409G | [On a plane](https://codeforces.com/contest/409/problem/G) | 2200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/409/G%20-%20On%20a%20plane/solution.cpp) |
 | 1515B | [Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1515/B%20-%20Phoenix%20and%20Puzzle/solution.cpp) |
 | 2120A | [Square of Rectangles](https://codeforces.com/contest/2120/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2120/A%20-%20Square%20of%20Rectangles/solution.cpp) |
 
