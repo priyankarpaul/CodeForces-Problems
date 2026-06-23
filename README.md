@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 305 | 24 |
+| 306 | 24 |
 
 ---
 
@@ -27,15 +27,15 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (4)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (94)
+- [greedy](#greedy) (95)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (152)
+- [implementation](#implementation) (153)
 - [math](#math) (106)
 - [number theory](#number-theory) (25)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (40)
 - [strings](#strings) (40)
-- [two pointers](#two-pointers) (5)
+- [two pointers](#two-pointers) (6)
 
 ---
 
@@ -323,6 +323,7 @@
 | 802M1 | [April Fools' Problem (easy)](https://codeforces.com/contest/802/problem/M1) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/802/M1%20-%20April%20Fools'%20Problem%20(easy)/solution.cpp) |
 | 835B | [The number on the board](https://codeforces.com/contest/835/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/835/B%20-%20The%20number%20on%20the%20board/solution.cpp) |
 | 892A | [Greed](https://codeforces.com/contest/892/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/892/A%20-%20Greed/solution.cpp) |
+| 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
 | 1095C | [Powers Of Two](https://codeforces.com/contest/1095/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1095/C%20-%20Powers%20Of%20Two/solution.cpp) |
 | 1174A | [Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1174/A%20-%20Ehab%20Fails%20to%20Be%20Thanos/solution.cpp) |
 | 1202A | [You Are Given Two Binary Strings...](https://codeforces.com/contest/1202/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1202/A%20-%20You%20Are%20Given%20Two%20Binary%20Strings.../solution.cpp) |
@@ -511,6 +512,7 @@
 | 825A | [Binary Protocol](https://codeforces.com/contest/825/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/825/A%20-%20Binary%20Protocol/solution.cpp) |
 | 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
 | 892A | [Greed](https://codeforces.com/contest/892/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/892/A%20-%20Greed/solution.cpp) |
+| 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
 | 911A | [Nearest Minimums](https://codeforces.com/contest/911/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/911/A%20-%20Nearest%20Minimums/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 922A | [Cloning Toys](https://codeforces.com/contest/922/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/922/A%20-%20Cloning%20Toys/solution.cpp) |
@@ -798,6 +800,7 @@
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.cpp) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
+| 892B | [Wrath](https://codeforces.com/contest/892/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/892/B%20-%20Wrath/solution.cpp) |
 | 1369C | [RationalLee](https://codeforces.com/contest/1369/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1369/C%20-%20RationalLee/solution.cpp) |
 | 2000B | [Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2000/B%20-%20Seating%20in%20a%20Bus/solution.cpp) |
 
