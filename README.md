@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 308 | 24 |
+| 309 | 24 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [greedy](#greedy) (95)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (154)
-- [math](#math) (107)
+- [math](#math) (108)
 - [number theory](#number-theory) (25)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (40)
@@ -574,6 +574,7 @@
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 120A | [Elevator](https://codeforces.com/contest/120/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/120/A%20-%20Elevator/solution.cpp) |
+| 124A | [The number of positions](https://codeforces.com/contest/124/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/124/A%20-%20The%20number%20of%20positions/solution.cpp) |
 | 188C | [LCM](https://codeforces.com/contest/188/problem/C) | 1400 | [Roco](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/188/C%20-%20LCM/solution.txt) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
