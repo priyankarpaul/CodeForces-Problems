@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 307 | 24 |
+| 308 | 24 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (11)
 - [bitmasks](#bitmasks) (13)
-- [brute force](#brute-force) (52)
+- [brute force](#brute-force) (53)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (33)
 - [data structures](#data-structures) (11)
@@ -29,8 +29,8 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (95)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (153)
-- [math](#math) (106)
+- [implementation](#implementation) (154)
+- [math](#math) (107)
 - [number theory](#number-theory) (25)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (40)
@@ -106,6 +106,7 @@
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.cpp) |
 | 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/25/A%20-%20IQ%20test/solution.cpp) |
 | 109A | [Lucky Sum of Digits](https://codeforces.com/contest/109/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/109/A%20-%20Lucky%20Sum%20of%20Digits/solution.cpp) |
+| 120A | [Elevator](https://codeforces.com/contest/120/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/120/A%20-%20Elevator/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 134A | [Average Numbers](https://codeforces.com/contest/134/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/134/A%20-%20Average%20Numbers/solution.cpp) |
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
@@ -433,6 +434,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/116/A%20-%20Tram/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
+| 120A | [Elevator](https://codeforces.com/contest/120/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/120/A%20-%20Elevator/solution.cpp) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/133/A%20-%20HQ9%2B/solution.cpp) |
 | 134A | [Average Numbers](https://codeforces.com/contest/134/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/134/A%20-%20Average%20Numbers/solution.cpp) |
@@ -571,6 +573,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
+| 120A | [Elevator](https://codeforces.com/contest/120/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/120/A%20-%20Elevator/solution.cpp) |
 | 188C | [LCM](https://codeforces.com/contest/188/problem/C) | 1400 | [Roco](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/188/C%20-%20LCM/solution.txt) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
