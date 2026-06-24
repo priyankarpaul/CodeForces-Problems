@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 310 | 24 |
+| 311 | 24 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (11)
 - [bitmasks](#bitmasks) (13)
-- [brute force](#brute-force) (53)
+- [brute force](#brute-force) (54)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (33)
 - [data structures](#data-structures) (11)
@@ -31,9 +31,9 @@
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (155)
 - [math](#math) (108)
-- [number theory](#number-theory) (25)
+- [number theory](#number-theory) (26)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (40)
+- [sortings](#sortings) (41)
 - [strings](#strings) (41)
 - [two pointers](#two-pointers) (6)
 
@@ -115,6 +115,7 @@
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 287A | [IQ Test](https://codeforces.com/contest/287/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/287/A%20-%20IQ%20Test/solution.cpp) |
+| 299A | [Ksusha and Array](https://codeforces.com/contest/299/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/299/A%20-%20Ksusha%20and%20Array/solution.cpp) |
 | 320A | [Magic Numbers](https://codeforces.com/contest/320/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/320/A%20-%20Magic%20Numbers/solution.cpp) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.cpp) |
@@ -682,6 +683,7 @@
 | 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+| 299A | [Ksusha and Array](https://codeforces.com/contest/299/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/299/A%20-%20Ksusha%20and%20Array/solution.cpp) |
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
@@ -724,6 +726,7 @@
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/230/A%20-%20Dragons/solution.cpp) |
 | 254A | [Cards with Numbers](https://codeforces.com/contest/254/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/254/A%20-%20Cards%20with%20Numbers/solution.cpp) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
+| 299A | [Ksusha and Array](https://codeforces.com/contest/299/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/299/A%20-%20Ksusha%20and%20Array/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 362B | [Petya and Staircases](https://codeforces.com/contest/362/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/362/B%20-%20Petya%20and%20Staircases/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
