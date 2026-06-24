@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 309 | 24 |
+| 310 | 24 |
 
 ---
 
@@ -29,12 +29,12 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (95)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (154)
+- [implementation](#implementation) (155)
 - [math](#math) (108)
 - [number theory](#number-theory) (25)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (40)
-- [strings](#strings) (40)
+- [strings](#strings) (41)
 - [two pointers](#two-pointers) (6)
 
 ---
@@ -449,6 +449,7 @@
 | 188D | [Asterisks](https://codeforces.com/contest/188/problem/D) | 1100 | [Roco](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/188/D%20-%20Asterisks/solution.txt) |
 | 188G | [Array Sorting](https://codeforces.com/contest/188/problem/G) | 1600 | [Roco](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/188/G%20-%20Array%20Sorting/solution.txt) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 219A | [k-String](https://codeforces.com/contest/219/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/219/A%20-%20k-String/solution.cpp) |
 | 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/227/B%20-%20Effective%20Approach/solution.cpp) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
@@ -770,6 +771,7 @@
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.cpp) |
 | 186A | [Comparing Strings](https://codeforces.com/contest/186/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/186/A%20-%20Comparing%20Strings/solution.cpp) |
 | 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/208/A%20-%20Dubstep/solution.cpp) |
+| 219A | [k-String](https://codeforces.com/contest/219/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/219/A%20-%20k-String/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 312A | [Whose sentence is it?](https://codeforces.com/contest/312/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/312/A%20-%20Whose%20sentence%20is%20it%3F/solution.cpp) |
