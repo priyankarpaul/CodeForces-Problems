@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 323 | 24 |
+| 324 | 24 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (13)
 - [brute force](#brute-force) (57)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (34)
+- [constructive algorithms](#constructive-algorithms) (35)
 - [data structures](#data-structures) (13)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (18)
@@ -27,9 +27,9 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (99)
+- [greedy](#greedy) (100)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (159)
+- [implementation](#implementation) (160)
 - [math](#math) (116)
 - [number theory](#number-theory) (27)
 - [shortest paths](#shortest-paths) (1)
@@ -193,6 +193,7 @@
 | 1547D | [Co-growing Sequence](https://codeforces.com/contest/1547/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1547/D%20-%20Co-growing%20Sequence/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.cpp) |
+| 1672C | [Unequal Array](https://codeforces.com/contest/1672/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1672/C%20-%20Unequal%20Array/solution.cpp) |
 | 1705B | [Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1705/B%20-%20Mark%20the%20Dust%20Sweeper/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
@@ -366,6 +367,7 @@
 | 1557B | [Moamen and k-subarrays](https://codeforces.com/contest/1557/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1557/B%20-%20Moamen%20and%20k-subarrays/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1667A | [Make it Increasing](https://codeforces.com/contest/1667/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1667/A%20-%20Make%20it%20Increasing/solution.cpp) |
+| 1672C | [Unequal Array](https://codeforces.com/contest/1672/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1672/C%20-%20Unequal%20Array/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1705B | [Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1705/B%20-%20Mark%20the%20Dust%20Sweeper/solution.cpp) |
 | 1749B | [Death's Blessing](https://codeforces.com/contest/1749/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1749/B%20-%20Death's%20Blessing/solution.cpp) |
@@ -558,6 +560,7 @@
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
 | 1560C | [Infinity Table](https://codeforces.com/contest/1560/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1560/C%20-%20Infinity%20Table/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1672C | [Unequal Array](https://codeforces.com/contest/1672/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1672/C%20-%20Unequal%20Array/solution.cpp) |
 | 1705B | [Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1705/B%20-%20Mark%20the%20Dust%20Sweeper/solution.cpp) |
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
 | 1790C | [Premutation](https://codeforces.com/contest/1790/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1790/C%20-%20Premutation/solution.cpp) |
