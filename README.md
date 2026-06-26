@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 322 | 24 |
+| 323 | 24 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (57)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (34)
-- [data structures](#data-structures) (12)
+- [data structures](#data-structures) (13)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (18)
 - [dsu](#dsu) (1)
@@ -30,10 +30,10 @@
 - [greedy](#greedy) (99)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (159)
-- [math](#math) (115)
+- [math](#math) (116)
 - [number theory](#number-theory) (27)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (42)
+- [sortings](#sortings) (43)
 - [strings](#strings) (41)
 - [two pointers](#two-pointers) (6)
 
@@ -220,6 +220,7 @@
 | 1213B | [Bad Prices](https://codeforces.com/contest/1213/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1213/B%20-%20Bad%20Prices/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
+| 1638B | [Odd Swap Sort](https://codeforces.com/contest/1638/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1638/B%20-%20Odd%20Swap%20Sort/solution.cpp) |
 | 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
@@ -660,6 +661,7 @@
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1627D | [Not Adding](https://codeforces.com/contest/1627/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1627/D%20-%20Not%20Adding/solution.cpp) |
 | 1634B | [Fortune Telling](https://codeforces.com/contest/1634/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1634/B%20-%20Fortune%20Telling/solution.cpp) |
+| 1638B | [Odd Swap Sort](https://codeforces.com/contest/1638/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1638/B%20-%20Odd%20Swap%20Sort/solution.cpp) |
 | 1667A | [Make it Increasing](https://codeforces.com/contest/1667/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1667/A%20-%20Make%20it%20Increasing/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
@@ -774,6 +776,7 @@
 | 1535B | [Array Reodering](https://codeforces.com/contest/1535/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1535/B%20-%20Array%20Reodering/solution.cpp) |
 | 1557B | [Moamen and k-subarrays](https://codeforces.com/contest/1557/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1557/B%20-%20Moamen%20and%20k-subarrays/solution.cpp) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.cpp) |
+| 1638B | [Odd Swap Sort](https://codeforces.com/contest/1638/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1638/B%20-%20Odd%20Swap%20Sort/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
