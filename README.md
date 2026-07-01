@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 329 | 24 |
+| 330 | 24 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (102)
+- [greedy](#greedy) (103)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (160)
 - [math](#math) (121)
@@ -415,6 +415,7 @@
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+| 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 
 ### hashing
 
