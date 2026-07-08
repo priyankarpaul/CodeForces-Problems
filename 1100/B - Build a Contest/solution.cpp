@@ -18,7 +18,6 @@ void solve() {
     vector<ll> count(n+1,0);
  
     ll distinct=0;
-    ll currentRound=1;
  
     string result="";
  
@@ -26,16 +25,15 @@ void solve() {
         ll x;
         cin>>x;
  
-        if(count[x]==currentRound-1) distinct++;
+        if(count[x]==0) distinct++;
         count[x]++;
  
         if(distinct==n){
             result.pb('1');
-            currentRound++;
-            distinct=0;
  
             for(int j=1;j<=n;j++){
-                if(count[j]>=currentRound) distinct++;
+                count[j]--;
+                if(count[j]==0) distinct--;
             }
         }
         else result.pb('0');
