@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 338 | 25 |
+| 339 | 25 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (14)
 - [bitmasks](#bitmasks) (14)
-- [brute force](#brute-force) (59)
+- [brute force](#brute-force) (60)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (38)
 - [data structures](#data-structures) (14)
@@ -30,11 +30,11 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (105)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (163)
-- [math](#math) (122)
+- [implementation](#implementation) (164)
+- [math](#math) (123)
 - [number theory](#number-theory) (29)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (44)
+- [sortings](#sortings) (45)
 - [strings](#strings) (41)
 - [two pointers](#two-pointers) (6)
 
@@ -138,6 +138,7 @@
 | 816A | [Karen and Morning](https://codeforces.com/contest/816/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/816/A%20-%20Karen%20and%20Morning/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 982A | [Row](https://codeforces.com/contest/982/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/982/A%20-%20Row/solution.cpp) |
+| 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1362B | [Johnny and His Hobbies](https://codeforces.com/contest/1362/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1362/B%20-%20Johnny%20and%20His%20Hobbies/solution.cpp) |
@@ -570,6 +571,7 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/977/B%20-%20Two-gram/solution.cpp) |
 | 978A | [Remove Duplicates](https://codeforces.com/contest/978/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/978/A%20-%20Remove%20Duplicates/solution.cpp) |
+| 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
 | 1038A | [Equality](https://codeforces.com/contest/1038/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1038/A%20-%20Equality/solution.cpp) |
 | 1073A | [Diverse Substring](https://codeforces.com/contest/1073/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1073/A%20-%20Diverse%20Substring/solution.cpp) |
@@ -654,6 +656,7 @@
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
+| 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
 | 1285A | [Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1285/A%20-%20Mezo%20Playing%20Zoma/solution.cpp) |
@@ -809,6 +812,7 @@
 | 802M1 | [April Fools' Problem (easy)](https://codeforces.com/contest/802/problem/M1) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/802/M1%20-%20April%20Fools'%20Problem%20(easy)/solution.cpp) |
 | 977C | [Less or Equal](https://codeforces.com/contest/977/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/977/C%20-%20Less%20or%20Equal/solution.cpp) |
 | 984A | [Game](https://codeforces.com/contest/984/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/984/A%20-%20Game/solution.cpp) |
+| 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1174A | [Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1174/A%20-%20Ehab%20Fails%20to%20Be%20Thanos/solution.cpp) |
 | 1300B | [Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1300/B%20-%20Assigning%20to%20Classes/solution.cpp) |
 | 1360C | [Similar Pairs](https://codeforces.com/contest/1360/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1360/C%20-%20Similar%20Pairs/solution.cpp) |
