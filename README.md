@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 339 | 25 |
+| 340 | 25 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [constructive algorithms](#constructive-algorithms) (38)
 - [data structures](#data-structures) (14)
 - [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (20)
+- [dp](#dp) (21)
 - [dsu](#dsu) (2)
 - [fft](#fft) (1)
 - [games](#games) (8)
@@ -31,7 +31,7 @@
 - [greedy](#greedy) (105)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (164)
-- [math](#math) (123)
+- [math](#math) (124)
 - [number theory](#number-theory) (29)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (45)
@@ -260,6 +260,7 @@
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
+| 1032E | [The Unbearable Lightness of Weights](https://codeforces.com/contest/1032/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1032/E%20-%20The%20Unbearable%20Lightness%20of%20Weights/solution.cpp) |
 | 1370D | [Odd-Even Subsequence](https://codeforces.com/contest/1370/problem/D) | 2000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1370/D%20-%20Odd-Even%20Subsequence/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1478B | [Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1478/B%20-%20Nezzar%20and%20Lucky%20Number/solution.cpp) |
@@ -657,6 +658,7 @@
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
+| 1032E | [The Unbearable Lightness of Weights](https://codeforces.com/contest/1032/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1032/E%20-%20The%20Unbearable%20Lightness%20of%20Weights/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
 | 1285A | [Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1285/A%20-%20Mezo%20Playing%20Zoma/solution.cpp) |
