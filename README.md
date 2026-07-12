@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 343 | 25 |
+| 344 | 25 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (14)
 - [bitmasks](#bitmasks) (14)
-- [brute force](#brute-force) (61)
+- [brute force](#brute-force) (62)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (39)
 - [data structures](#data-structures) (14)
@@ -28,7 +28,7 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (105)
+- [greedy](#greedy) (106)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (165)
 - [math](#math) (125)
@@ -151,6 +151,7 @@
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
 | 1535B | [Array Reodering](https://codeforces.com/contest/1535/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1535/B%20-%20Array%20Reodering/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
+| 1546A | [AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1546/A%20-%20AquaMoon%20and%20Two%20Arrays/solution.cpp) |
 | 1627D | [Not Adding](https://codeforces.com/contest/1627/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1627/D%20-%20Not%20Adding/solution.cpp) |
 | 1667A | [Make it Increasing](https://codeforces.com/contest/1667/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1667/A%20-%20Make%20it%20Increasing/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
@@ -387,6 +388,7 @@
 | 1535B | [Array Reodering](https://codeforces.com/contest/1535/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1535/B%20-%20Array%20Reodering/solution.cpp) |
 | 1537C | [Challenging Cliffs](https://codeforces.com/contest/1537/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1537/C%20-%20Challenging%20Cliffs/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
+| 1546A | [AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1546/A%20-%20AquaMoon%20and%20Two%20Arrays/solution.cpp) |
 | 1547D | [Co-growing Sequence](https://codeforces.com/contest/1547/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1547/D%20-%20Co-growing%20Sequence/solution.cpp) |
 | 1550B | [Maximum Cost Deletion](https://codeforces.com/contest/1550/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1550/B%20-%20Maximum%20Cost%20Deletion/solution.cpp) |
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
