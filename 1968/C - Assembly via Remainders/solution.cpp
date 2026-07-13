@@ -18,7 +18,7 @@ void solve() {
     vector<ll> arr(n-1);
     for(int i=0;i<n-1;i++) cin>>arr[i];
      
-    ll a=1000000000-250000;
+    ll a=10000;
     cout<<a;
     for(int i=0;i<n-1;i++){
         a+=arr[i];
