@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 352 | 25 |
+| 353 | 26 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [bitmasks](#bitmasks) (14)
 - [brute force](#brute-force) (65)
 - [combinatorics](#combinatorics) (4)
-- [constructive algorithms](#constructive-algorithms) (40)
+- [constructive algorithms](#constructive-algorithms) (41)
 - [data structures](#data-structures) (14)
 - [dfs and similar](#dfs-and-similar) (3)
 - [dp](#dp) (22)
@@ -28,11 +28,12 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (107)
+- [greedy](#greedy) (108)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (166)
-- [math](#math) (128)
+- [implementation](#implementation) (167)
+- [math](#math) (129)
 - [number theory](#number-theory) (32)
+- [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (45)
 - [strings](#strings) (41)
@@ -216,6 +217,7 @@
 | 1705B | [Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1705/B%20-%20Mark%20the%20Dust%20Sweeper/solution.cpp) |
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
+| 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
@@ -409,6 +411,7 @@
 | 1705B | [Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1705/B%20-%20Mark%20the%20Dust%20Sweeper/solution.cpp) |
 | 1749B | [Death's Blessing](https://codeforces.com/contest/1749/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1749/B%20-%20Death's%20Blessing/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
+| 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
 | 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
 | 1815A | [Ian and Array Sorting](https://codeforces.com/contest/1815/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1815/A%20-%20Ian%20and%20Array%20Sorting/solution.cpp) |
 | 1818A | [Politics](https://codeforces.com/contest/1818/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1818/A%20-%20Politics/solution.cpp) |
@@ -611,6 +614,7 @@
 | 1672C | [Unequal Array](https://codeforces.com/contest/1672/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1672/C%20-%20Unequal%20Array/solution.cpp) |
 | 1705B | [Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1705/B%20-%20Mark%20the%20Dust%20Sweeper/solution.cpp) |
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
+| 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
 | 1790C | [Premutation](https://codeforces.com/contest/1790/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1790/C%20-%20Premutation/solution.cpp) |
 | 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
@@ -723,6 +727,7 @@
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
 | 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
+| 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
 | 1790C | [Premutation](https://codeforces.com/contest/1790/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1790/C%20-%20Premutation/solution.cpp) |
 | 1815A | [Ian and Array Sorting](https://codeforces.com/contest/1815/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1815/A%20-%20Ian%20and%20Array%20Sorting/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
@@ -800,6 +805,12 @@
 | 2226B | [Everything Everywhere](https://codeforces.com/contest/2226/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2226/B%20-%20Everything%20Everywhere/solution.cpp) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
+
+### probabilities
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
 
 ### shortest paths
 
