@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 358 | 26 |
+| 359 | 26 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (11)
 - [binary search](#binary-search) (15)
 - [bitmasks](#bitmasks) (14)
-- [brute force](#brute-force) (65)
+- [brute force](#brute-force) (66)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (41)
 - [data structures](#data-structures) (14)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (108)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (167)
+- [implementation](#implementation) (168)
 - [math](#math) (129)
 - [number theory](#number-theory) (32)
 - [probabilities](#probabilities) (1)
@@ -149,6 +149,7 @@
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 982A | [Row](https://codeforces.com/contest/982/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/982/A%20-%20Row/solution.cpp) |
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
+| 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
 | 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1362B | [Johnny and His Hobbies](https://codeforces.com/contest/1362/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1362/B%20-%20Johnny%20and%20His%20Hobbies/solution.cpp) |
@@ -601,6 +602,7 @@
 | 1038A | [Equality](https://codeforces.com/contest/1038/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1038/A%20-%20Equality/solution.cpp) |
 | 1073A | [Diverse Substring](https://codeforces.com/contest/1073/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1073/A%20-%20Diverse%20Substring/solution.cpp) |
 | 1100B | [Build a Contest](https://codeforces.com/contest/1100/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1100/B%20-%20Build%20a%20Contest/solution.cpp) |
+| 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1141B | [Maximal Continuous Rest](https://codeforces.com/contest/1141/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1141/B%20-%20Maximal%20Continuous%20Rest/solution.cpp) |
 | 1201A | [Important Exam](https://codeforces.com/contest/1201/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1201/A%20-%20Important%20Exam/solution.cpp) |
