@@ -28,7 +28,9 @@ void solve() {
     ll maxWinning=(1<<n)-(1<<zeros)+1;
  
     for(ll i=minWinning;i<=maxWinning;i++){
-        cout<<i<<" ";
+        cout<<i;
+        if(i==maxWinning) cout<<"";
+        else cout<<" ";
     }
         cout<<"
 ";
