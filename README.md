@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 365 | 26 |
+| 366 | 27 |
 
 ---
 
@@ -14,13 +14,14 @@
 
 - [*special](#special) (13)
 - [Uncategorized](#uncategorized) (14)
-- [binary search](#binary-search) (15)
-- [bitmasks](#bitmasks) (14)
+- [binary search](#binary-search) (16)
+- [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (66)
 - [combinatorics](#combinatorics) (5)
 - [constructive algorithms](#constructive-algorithms) (42)
 - [data structures](#data-structures) (14)
 - [dfs and similar](#dfs-and-similar) (3)
+- [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (23)
 - [dsu](#dsu) (2)
 - [fft](#fft) (1)
@@ -28,7 +29,7 @@
 - [geometry](#geometry) (7)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (110)
+- [greedy](#greedy) (111)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (169)
 - [math](#math) (132)
@@ -97,6 +98,7 @@
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
+| 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
 
 ### bitmasks
 
@@ -116,6 +118,7 @@
 | 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
 | 2214C | [And?](https://codeforces.com/contest/2214/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2214/C%20-%20And%3F/solution.cpp) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
+| 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
 
 ### brute force
 
@@ -271,6 +274,12 @@
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+
+### divide and conquer
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
 
 ### dp
 
@@ -468,6 +477,7 @@
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
+| 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
 
 ### hashing
 
