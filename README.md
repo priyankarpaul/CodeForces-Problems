@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 366 | 27 |
+| 367 | 27 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [dsu](#dsu) (2)
 - [fft](#fft) (1)
 - [games](#games) (8)
-- [geometry](#geometry) (7)
+- [geometry](#geometry) (8)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (111)
@@ -344,6 +344,7 @@
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/224/A%20-%20Parallelepiped/solution.cpp) |
 | 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
 | 409G | [On a plane](https://codeforces.com/contest/409/problem/G) | 2200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/409/G%20-%20On%20a%20plane/solution.cpp) |
+| 1156A | [Inscribed Figures](https://codeforces.com/contest/1156/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1156/A%20-%20Inscribed%20Figures/solution.cpp) |
 | 1515B | [Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1515/B%20-%20Phoenix%20and%20Puzzle/solution.cpp) |
 | 2120A | [Square of Rectangles](https://codeforces.com/contest/2120/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2120/A%20-%20Square%20of%20Rectangles/solution.cpp) |
 
