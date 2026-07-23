@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 369 | 27 |
+| 370 | 27 |
 
 ---
 
@@ -25,14 +25,14 @@
 - [dp](#dp) (23)
 - [dsu](#dsu) (2)
 - [fft](#fft) (1)
-- [games](#games) (8)
+- [games](#games) (9)
 - [geometry](#geometry) (8)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (112)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (169)
-- [math](#math) (134)
+- [math](#math) (135)
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (2)
@@ -328,6 +328,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 120E | [Put Knight!](https://codeforces.com/contest/120/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/120/E%20-%20Put%20Knight!/solution.cpp) |
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
 | 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
@@ -679,6 +680,7 @@
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 120A | [Elevator](https://codeforces.com/contest/120/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/120/A%20-%20Elevator/solution.cpp) |
+| 120E | [Put Knight!](https://codeforces.com/contest/120/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/120/E%20-%20Put%20Knight!/solution.cpp) |
 | 124A | [The number of positions](https://codeforces.com/contest/124/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/124/A%20-%20The%20number%20of%20positions/solution.cpp) |
 | 188C | [LCM](https://codeforces.com/contest/188/problem/C) | 1400 | [Roco](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/188/C%20-%20LCM/solution.txt) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
