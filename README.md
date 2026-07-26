@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 371 | 27 |
+| 372 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (13)
-- [Uncategorized](#uncategorized) (14)
+- [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (16)
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (66)
@@ -77,6 +77,7 @@
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
 | 2247C | [Inversion of a Subsequence](https://codeforces.com/contest/2247/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2247/C%20-%20Inversion%20of%20a%20Subsequence/solution.cpp) |
+| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 | 102961ZE | [Array Division](https://codeforces.com/contest/102961/problem/ZE) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/102961/ZE%20-%20Array%20Division/solution.cpp) |
 
 ### binary search
