@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 386 | 27 |
+| 387 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (13)
-- [Uncategorized](#uncategorized) (23)
+- [Uncategorized](#uncategorized) (24)
 - [binary search](#binary-search) (18)
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (68)
@@ -86,6 +86,7 @@
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
+| 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 | 102961ZE | [Array Division](https://codeforces.com/contest/102961/problem/ZE) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/102961/ZE%20-%20Array%20Division/solution.cpp) |
 
 ### binary search
