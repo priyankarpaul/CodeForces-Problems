@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 387 | 27 |
+| 388 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (13)
+- [*special](#special) (14)
 - [Uncategorized](#uncategorized) (24)
-- [binary search](#binary-search) (18)
+- [binary search](#binary-search) (19)
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (68)
 - [combinatorics](#combinatorics) (7)
-- [constructive algorithms](#constructive-algorithms) (44)
-- [data structures](#data-structures) (16)
+- [constructive algorithms](#constructive-algorithms) (45)
+- [data structures](#data-structures) (17)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (25)
@@ -36,7 +36,7 @@
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (46)
+- [sortings](#sortings) (47)
 - [strings](#strings) (41)
 - [two pointers](#two-pointers) (7)
 
@@ -55,6 +55,7 @@
 | 188D | [Asterisks](https://codeforces.com/contest/188/problem/D) | 1100 | [Roco](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/188/D%20-%20Asterisks/solution.txt) |
 | 188G | [Array Sorting](https://codeforces.com/contest/188/problem/G) | 1600 | [Roco](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/188/G%20-%20Array%20Sorting/solution.txt) |
 | 409G | [On a plane](https://codeforces.com/contest/409/problem/G) | 2200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/409/G%20-%20On%20a%20plane/solution.cpp) |
+| 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
 | 2214A | [Odd One Out](https://codeforces.com/contest/2214/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2214/A%20-%20Odd%20One%20Out/solution.cpp) |
 | 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
 | 2214C | [And?](https://codeforces.com/contest/2214/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2214/C%20-%20And%3F/solution.cpp) |
@@ -97,6 +98,7 @@
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
+| 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 888C | [K-Dominant Character](https://codeforces.com/contest/888/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/888/C%20-%20K-Dominant%20Character/solution.cpp) |
@@ -228,6 +230,7 @@
 | 254A | [Cards with Numbers](https://codeforces.com/contest/254/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/254/A%20-%20Cards%20with%20Numbers/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 534A | [Exam](https://codeforces.com/contest/534/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/534/A%20-%20Exam/solution.cpp) |
+| 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
 | 803B | [Distances to Zero](https://codeforces.com/contest/803/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/803/B%20-%20Distances%20to%20Zero/solution.cpp) |
 | 982A | [Row](https://codeforces.com/contest/982/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/982/A%20-%20Row/solution.cpp) |
 | 1174A | [Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1174/A%20-%20Ehab%20Fails%20to%20Be%20Thanos/solution.cpp) |
@@ -275,6 +278,7 @@
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
+| 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 1100B | [Build a Contest](https://codeforces.com/contest/1100/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1100/B%20-%20Build%20a%20Contest/solution.cpp) |
 | 1213B | [Bad Prices](https://codeforces.com/contest/1213/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1213/B%20-%20Bad%20Prices/solution.cpp) |
@@ -910,6 +914,7 @@
 | 507A | [Amr and Music](https://codeforces.com/contest/507/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/507/A%20-%20Amr%20and%20Music/solution.cpp) |
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
 | 560A | [Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/560/A%20-%20Currency%20System%20in%20Geraldion/solution.cpp) |
+| 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
 | 717C | [Potions Homework](https://codeforces.com/contest/717/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/717/C%20-%20Potions%20Homework/solution.cpp) |
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 802M1 | [April Fools' Problem (easy)](https://codeforces.com/contest/802/problem/M1) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/802/M1%20-%20April%20Fools'%20Problem%20(easy)/solution.cpp) |
