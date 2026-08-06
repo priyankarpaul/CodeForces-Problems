@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 392 | 27 |
+| 393 | 27 |
 
 ---
 
@@ -29,14 +29,14 @@
 - [geometry](#geometry) (8)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (114)
+- [greedy](#greedy) (115)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (174)
 - [math](#math) (136)
 - [number theory](#number-theory) (33)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (48)
+- [sortings](#sortings) (49)
 - [strings](#strings) (41)
 - [two pointers](#two-pointers) (7)
 
@@ -512,6 +512,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
 | 2247D1 | [XOR Sorting (Easy Version)](https://codeforces.com/contest/2247/problem/D1) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2247/D1%20-%20XOR%20Sorting%20(Easy%20Version)/solution.cpp) |
+| 2252D | [Array Replacement](https://codeforces.com/contest/2252/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2252/D%20-%20Array%20Replacement/solution.cpp) |
 
 ### hashing
 
@@ -944,6 +945,7 @@
 | 2208B | [Cyclists](https://codeforces.com/contest/2208/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2208/B%20-%20Cyclists/solution.cpp) |
 | 2232A | [Convergence](https://codeforces.com/contest/2232/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2232/A%20-%20Convergence/solution.cpp) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
+| 2252D | [Array Replacement](https://codeforces.com/contest/2252/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2252/D%20-%20Array%20Replacement/solution.cpp) |
 
 ### strings
 
