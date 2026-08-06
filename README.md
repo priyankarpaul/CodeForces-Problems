@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 395 | 27 |
+| 396 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (14)
-- [Uncategorized](#uncategorized) (27)
+- [Uncategorized](#uncategorized) (28)
 - [binary search](#binary-search) (20)
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (68)
@@ -65,6 +65,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1877B | [Helmets in Night Light](https://codeforces.com/contest/1877/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1877/B%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 | 2242C | [Unstable Elements](https://codeforces.com/contest/2242/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2242/C%20-%20Unstable%20Elements/solution.cpp) |
