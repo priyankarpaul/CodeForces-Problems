@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 399 | 27 |
+| 400 | 27 |
 
 ---
 
@@ -32,11 +32,11 @@
 - [greedy](#greedy) (118)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (174)
-- [math](#math) (138)
+- [math](#math) (139)
 - [number theory](#number-theory) (35)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (50)
+- [sortings](#sortings) (51)
 - [strings](#strings) (41)
 - [two pointers](#two-pointers) (7)
 
@@ -812,6 +812,7 @@
 | 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
 | 1790C | [Premutation](https://codeforces.com/contest/1790/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1790/C%20-%20Premutation/solution.cpp) |
 | 1815A | [Ian and Array Sorting](https://codeforces.com/contest/1815/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1815/A%20-%20Ian%20and%20Array%20Sorting/solution.cpp) |
+| 1857E | [Power of Points](https://codeforces.com/contest/1857/problem/E) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1857/E%20-%20Power%20of%20Points/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
@@ -951,6 +952,7 @@
 | 1638B | [Odd Swap Sort](https://codeforces.com/contest/1638/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1638/B%20-%20Odd%20Swap%20Sort/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
+| 1857E | [Power of Points](https://codeforces.com/contest/1857/problem/E) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1857/E%20-%20Power%20of%20Points/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
