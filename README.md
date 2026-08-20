@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 404 | 27 |
+| 405 | 27 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (14)
 - [Uncategorized](#uncategorized) (30)
-- [binary search](#binary-search) (20)
+- [binary search](#binary-search) (21)
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (69)
 - [combinatorics](#combinatorics) (7)
@@ -32,7 +32,7 @@
 - [greedy](#greedy) (119)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (177)
-- [math](#math) (140)
+- [math](#math) (141)
 - [number theory](#number-theory) (35)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (2)
@@ -105,6 +105,7 @@
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/474/B%20-%20Worms/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
 | 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
+| 700A | [As Fast As Possible](https://codeforces.com/contest/700/problem/A) | 1900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/700/A%20-%20As%20Fast%20As%20Possible/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 888C | [K-Dominant Character](https://codeforces.com/contest/888/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/888/C%20-%20K-Dominant%20Character/solution.cpp) |
@@ -757,6 +758,7 @@
 | 630C | [Lucky Numbers](https://codeforces.com/contest/630/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/630/C%20-%20Lucky%20Numbers/solution.cpp) |
 | 630J | [Divisibility](https://codeforces.com/contest/630/problem/J) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/630/J%20-%20Divisibility/solution.cpp) |
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
+| 700A | [As Fast As Possible](https://codeforces.com/contest/700/problem/A) | 1900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/700/A%20-%20As%20Fast%20As%20Possible/solution.cpp) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
