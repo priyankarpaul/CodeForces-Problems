@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 405 | 27 |
+| 406 | 27 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [brute force](#brute-force) (69)
 - [combinatorics](#combinatorics) (7)
 - [constructive algorithms](#constructive-algorithms) (47)
-- [data structures](#data-structures) (17)
+- [data structures](#data-structures) (18)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (26)
@@ -31,7 +31,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (119)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (177)
+- [implementation](#implementation) (178)
 - [math](#math) (141)
 - [number theory](#number-theory) (35)
 - [probabilities](#probabilities) (1)
@@ -286,6 +286,7 @@
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
 | 18C | [Stripe](https://codeforces.com/contest/18/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/18/C%20-%20Stripe/solution.cpp) |
+| 46D | [Parking Lot](https://codeforces.com/contest/46/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/46/D%20-%20Parking%20Lot/solution.cpp) |
 | 276C | [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/276/C%20-%20Little%20Girl%20and%20Maximum%20Sum/solution.cpp) |
 | 501B | [Misha and Changing Handles](https://codeforces.com/contest/501/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/501/B%20-%20Misha%20and%20Changing%20Handles/solution.cpp) |
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
@@ -554,6 +555,7 @@
 | 36A | [Extra-terrestrial Intelligence](https://codeforces.com/contest/36/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/36/A%20-%20Extra-terrestrial%20Intelligence/solution.cpp) |
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 46D | [Parking Lot](https://codeforces.com/contest/46/problem/D) | 1800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/46/D%20-%20Parking%20Lot/solution.cpp) |
 | 47B | [Coins](https://codeforces.com/contest/47/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/47/B%20-%20Coins/solution.cpp) |
 | 53A | [Autocomplete](https://codeforces.com/contest/53/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/53/A%20-%20Autocomplete/solution.cpp) |
 | 55A | [Flea travel](https://codeforces.com/contest/55/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/55/A%20-%20Flea%20travel/solution.cpp) |
