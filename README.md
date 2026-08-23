@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 408 | 27 |
+| 409 | 27 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [data structures](#data-structures) (18)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (26)
+- [dp](#dp) (27)
 - [dsu](#dsu) (2)
 - [fft](#fft) (1)
 - [games](#games) (9)
@@ -323,6 +323,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 72G | [Fibonacci army](https://codeforces.com/contest/72/problem/G) | 1000 | [Io](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/72/G%20-%20Fibonacci%20army/solution.txt) |
+| 118D | [Caesar's Legions](https://codeforces.com/contest/118/problem/D) | 1700 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/118/D%20-%20Caesar's%20Legions/solution.cpp) |
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.cpp) |
 | 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
