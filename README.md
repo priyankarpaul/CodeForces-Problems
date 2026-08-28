@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 413 | 27 |
+| 414 | 27 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [data structures](#data-structures) (19)
 - [dfs and similar](#dfs-and-similar) (3)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (27)
+- [dp](#dp) (28)
 - [dsu](#dsu) (2)
 - [fft](#fft) (1)
 - [games](#games) (9)
@@ -32,9 +32,9 @@
 - [greedy](#greedy) (123)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (180)
-- [math](#math) (143)
+- [math](#math) (144)
 - [number theory](#number-theory) (35)
-- [probabilities](#probabilities) (1)
+- [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (54)
 - [strings](#strings) (43)
@@ -337,6 +337,7 @@
 | 922E | [Birds](https://codeforces.com/contest/922/problem/E) | 2200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/922/E%20-%20Birds/solution.cpp) |
 | 1032E | [The Unbearable Lightness of Weights](https://codeforces.com/contest/1032/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1032/E%20-%20The%20Unbearable%20Lightness%20of%20Weights/solution.cpp) |
 | 1370D | [Odd-Even Subsequence](https://codeforces.com/contest/1370/problem/D) | 2000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1370/D%20-%20Odd-Even%20Subsequence/solution.cpp) |
+| 1461C | [Random Events](https://codeforces.com/contest/1461/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1461/C%20-%20Random%20Events/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
 | 1478B | [Nezzar and Lucky Number](https://codeforces.com/contest/1478/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1478/B%20-%20Nezzar%20and%20Lucky%20Number/solution.cpp) |
 | 1501B | [Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1501/B%20-%20Napoleon%20Cake/solution.cpp) |
@@ -794,6 +795,7 @@
 | 1420A | [Cubes Sorting](https://codeforces.com/contest/1420/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1420/A%20-%20Cubes%20Sorting/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1461C | [Random Events](https://codeforces.com/contest/1461/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1461/C%20-%20Random%20Events/solution.cpp) |
 | 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
@@ -923,6 +925,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1461C | [Random Events](https://codeforces.com/contest/1461/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1461/C%20-%20Random%20Events/solution.cpp) |
 | 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
 
 ### shortest paths
