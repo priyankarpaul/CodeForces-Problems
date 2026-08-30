@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 414 | 27 |
+| 415 | 27 |
 
 ---
 
@@ -32,7 +32,7 @@
 - [greedy](#greedy) (123)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (180)
-- [math](#math) (144)
+- [math](#math) (145)
 - [number theory](#number-theory) (35)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
@@ -880,6 +880,7 @@
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
+| 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 
 ### number theory
 
