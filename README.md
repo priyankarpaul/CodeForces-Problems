@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 416 | 27 |
+| 417 | 27 |
 
 ---
 
@@ -32,8 +32,8 @@
 - [greedy](#greedy) (124)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (181)
-- [math](#math) (146)
-- [number theory](#number-theory) (36)
+- [math](#math) (147)
+- [number theory](#number-theory) (37)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (54)
@@ -781,6 +781,7 @@
 | 996B | [World Cup](https://codeforces.com/contest/996/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/996/B%20-%20World%20Cup/solution.cpp) |
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1032E | [The Unbearable Lightness of Weights](https://codeforces.com/contest/1032/problem/E) | 2100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1032/E%20-%20The%20Unbearable%20Lightness%20of%20Weights/solution.cpp) |
+| 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
 | 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
 | 1285A | [Mezo Playing Zoma](https://codeforces.com/contest/1285/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1285/A%20-%20Mezo%20Playing%20Zoma/solution.cpp) |
@@ -900,6 +901,7 @@
 | 660A | [Co-prime Array](https://codeforces.com/contest/660/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/660/A%20-%20Co-prime%20Array/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
+| 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
 | 1277B | [Make Them Odd](https://codeforces.com/contest/1277/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1277/B%20-%20Make%20Them%20Odd/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
