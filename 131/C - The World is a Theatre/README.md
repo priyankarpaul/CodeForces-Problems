@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/131/problem/C" target="_blank" rel="noopener noreferrer">131C — The World is a Theatre</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1400 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 131C](https://codeforces.com/contest/131/problem/C) |
+
+## Topics
+`combinatorics` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. The World is a Theatre</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>There are <span class="tex-span"><i>n</i></span> boys and <span class="tex-span"><i>m</i></span> girls attending a theatre club. To set a play "The Big Bang Theory", they need to choose a group containing exactly <span class="tex-span"><i>t</i></span> actors containing no less than 4 boys and no less than one girl. How many ways are there to choose a group? Of course, the variants that only differ in the composition of the troupe are considered different.</p><p>Perform all calculations in the 64-bit type: <span class="tex-font-style-tt">long long</span> for С/С++, <span class="tex-font-style-tt">int64</span> for Delphi and <span class="tex-font-style-tt">long</span> for Java.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The only line of the input data contains three integers <span class="tex-span"><i>n</i></span>, <span class="tex-span"><i>m</i></span>, <span class="tex-span"><i>t</i></span> (<span class="tex-span">4 ≤ <i>n</i> ≤ 30, 1 ≤ <i>m</i> ≤ 30, 5 ≤ <i>t</i> ≤ <i>n</i> + <i>m</i></span>).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Find the required number of ways.</p><p>Please do not use the %lld specificator to read or write 64-bit integers in С++. It is preferred to use cin, cout streams or the %I64d specificator.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00060823920589608726" id="id007719722345956036" class="input-output-copier">Copy</div></div><pre id="id00060823920589608726">5 2 5<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006891804244693587" id="id0008319860704833693" class="input-output-copier">Copy</div></div><pre id="id006891804244693587">10<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00816044804312706" id="id0023376327853620293" class="input-output-copier">Copy</div></div><pre id="id00816044804312706">4 3 5<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0038359386919770033" id="id006564385320782555" class="input-output-copier">Copy</div></div><pre id="id0038359386919770033">3<br></pre></div></div></div>
