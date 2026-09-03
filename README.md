@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 419 | 27 |
+| 420 | 27 |
 
 ---
 
@@ -29,10 +29,10 @@
 - [geometry](#geometry) (9)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (125)
+- [greedy](#greedy) (126)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (182)
-- [math](#math) (148)
+- [math](#math) (149)
 - [number theory](#number-theory) (37)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
@@ -467,6 +467,7 @@
 | 1406A | [Subset Mex](https://codeforces.com/contest/1406/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1406/A%20-%20Subset%20Mex/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1445B | [Elimination](https://codeforces.com/contest/1445/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1445/B%20-%20Elimination/solution.cpp) |
 | 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
@@ -805,6 +806,7 @@
 | 1420A | [Cubes Sorting](https://codeforces.com/contest/1420/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1420/A%20-%20Cubes%20Sorting/solution.cpp) |
 | 1421A | [XORwice](https://codeforces.com/contest/1421/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1421/A%20-%20XORwice/solution.cpp) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.cpp) |
+| 1445B | [Elimination](https://codeforces.com/contest/1445/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1445/B%20-%20Elimination/solution.cpp) |
 | 1461C | [Random Events](https://codeforces.com/contest/1461/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1461/C%20-%20Random%20Events/solution.cpp) |
 | 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
