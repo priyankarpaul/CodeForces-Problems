@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 427 | 27 |
+| 428 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (14)
-- [Uncategorized](#uncategorized) (34)
+- [Uncategorized](#uncategorized) (35)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (72)
@@ -98,6 +98,7 @@
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
+| 2260C | [Maximize XOR, Minimize Operations](https://codeforces.com/contest/2260/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2260/C%20-%20Maximize%20XOR%2C%20Minimize%20Operations/solution.cpp) |
 | 102961ZE | [Array Division](https://codeforces.com/contest/102961/problem/ZE) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/102961/ZE%20-%20Array%20Division/solution.cpp) |
 
 ### binary search
