@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 436 | 27 |
+| 437 | 27 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [Uncategorized](#uncategorized) (35)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (15)
-- [brute force](#brute-force) (77)
+- [brute force](#brute-force) (78)
 - [combinatorics](#combinatorics) (8)
-- [constructive algorithms](#constructive-algorithms) (49)
+- [constructive algorithms](#constructive-algorithms) (50)
 - [data structures](#data-structures) (20)
 - [dfs and similar](#dfs-and-similar) (4)
 - [divide and conquer](#divide-and-conquer) (1)
@@ -32,8 +32,8 @@
 - [greedy](#greedy) (131)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (185)
-- [math](#math) (155)
-- [number theory](#number-theory) (42)
+- [math](#math) (156)
+- [number theory](#number-theory) (43)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (55)
@@ -204,6 +204,7 @@
 | 1535B | [Array Reodering](https://codeforces.com/contest/1535/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1535/B%20-%20Array%20Reodering/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1546A | [AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1546/A%20-%20AquaMoon%20and%20Two%20Arrays/solution.cpp) |
+| 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
 | 1627D | [Not Adding](https://codeforces.com/contest/1627/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1627/D%20-%20Not%20Adding/solution.cpp) |
 | 1667A | [Make it Increasing](https://codeforces.com/contest/1667/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1667/A%20-%20Make%20it%20Increasing/solution.cpp) |
 | 1677A | [Tokitsukaze and Strange Inequality](https://codeforces.com/contest/1677/problem/A) | 1600 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1677/A%20-%20Tokitsukaze%20and%20Strange%20Inequality/solution.cpp) |
@@ -273,6 +274,7 @@
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1608A | [Find Array](https://codeforces.com/contest/1608/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1608/A%20-%20Find%20Array/solution.cpp) |
 | 1614B | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1614/B%20-%20Divan%20and%20a%20New%20Project%20/solution.cpp) |
+| 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
 | 1672C | [Unequal Array](https://codeforces.com/contest/1672/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1672/C%20-%20Unequal%20Array/solution.cpp) |
 | 1705B | [Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1705/B%20-%20Mark%20the%20Dust%20Sweeper/solution.cpp) |
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.cpp) |
@@ -858,6 +860,7 @@
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1593D1 | [All are Same](https://codeforces.com/contest/1593/problem/D1) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1593/D1%20-%20All%20are%20Same/solution.cpp) |
 | 1608A | [Find Array](https://codeforces.com/contest/1608/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1608/A%20-%20Find%20Array/solution.cpp) |
+| 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1627D | [Not Adding](https://codeforces.com/contest/1627/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1627/D%20-%20Not%20Adding/solution.cpp) |
 | 1629B | [GCD Arrays](https://codeforces.com/contest/1629/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1629/B%20-%20GCD%20Arrays/solution.cpp) |
@@ -952,6 +955,7 @@
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1593D1 | [All are Same](https://codeforces.com/contest/1593/problem/D1) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1593/D1%20-%20All%20are%20Same/solution.cpp) |
+| 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
 | 1627D | [Not Adding](https://codeforces.com/contest/1627/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1627/D%20-%20Not%20Adding/solution.cpp) |
 | 1629B | [GCD Arrays](https://codeforces.com/contest/1629/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1629/B%20-%20GCD%20Arrays/solution.cpp) |
 | 1658B | [Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1658/B%20-%20Marin%20and%20Anti-coprime%20Permutation/solution.cpp) |
