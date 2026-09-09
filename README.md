@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 433 | 27 |
+| 434 | 27 |
 
 ---
 
@@ -29,10 +29,10 @@
 - [geometry](#geometry) (9)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (130)
+- [greedy](#greedy) (131)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (184)
-- [math](#math) (152)
+- [math](#math) (153)
 - [number theory](#number-theory) (41)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
@@ -529,6 +529,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
+| 1987A | [Upload More RAM](https://codeforces.com/contest/1987/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1987/A%20-%20Upload%20More%20RAM/solution.cpp) |
 | 2044D | [Harder Problem](https://codeforces.com/contest/2044/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2044/D%20-%20Harder%20Problem/solution.cpp) |
 | 2069A | [Was there an Array?](https://codeforces.com/contest/2069/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2069/A%20-%20Was%20there%20an%20Array%3F/solution.cpp) |
 | 2071B | [Perfecto](https://codeforces.com/contest/2071/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2071/B%20-%20Perfecto/solution.cpp) |
@@ -886,6 +887,7 @@
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
+| 1987A | [Upload More RAM](https://codeforces.com/contest/1987/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1987/A%20-%20Upload%20More%20RAM/solution.cpp) |
 | 2044D | [Harder Problem](https://codeforces.com/contest/2044/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2044/D%20-%20Harder%20Problem/solution.cpp) |
 | 2071B | [Perfecto](https://codeforces.com/contest/2071/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2071/B%20-%20Perfecto/solution.cpp) |
 | 2120A | [Square of Rectangles](https://codeforces.com/contest/2120/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2120/A%20-%20Square%20of%20Rectangles/solution.cpp) |
