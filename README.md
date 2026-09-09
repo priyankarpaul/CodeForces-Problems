@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 432 | 27 |
+| 433 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (35)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (15)
-- [brute force](#brute-force) (75)
+- [brute force](#brute-force) (76)
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (49)
 - [data structures](#data-structures) (20)
@@ -32,8 +32,8 @@
 - [greedy](#greedy) (130)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (184)
-- [math](#math) (151)
-- [number theory](#number-theory) (40)
+- [math](#math) (152)
+- [number theory](#number-theory) (41)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (55)
@@ -156,6 +156,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 6A | [Triangle](https://codeforces.com/contest/6/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/6/A%20-%20Triangle/solution.cpp) |
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.cpp) |
+| 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/25/A%20-%20IQ%20test/solution.cpp) |
 | 109A | [Lucky Sum of Digits](https://codeforces.com/contest/109/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/109/A%20-%20Lucky%20Sum%20of%20Digits/solution.cpp) |
 | 120A | [Elevator](https://codeforces.com/contest/120/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/120/A%20-%20Elevator/solution.cpp) |
@@ -767,6 +768,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.cpp) |
 | 11A | [Increasing Sequence](https://codeforces.com/contest/11/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/11/A%20-%20Increasing%20Sequence/solution.cpp) |
+| 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 39D | [Cubical Planet](https://codeforces.com/contest/39/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/39/D%20-%20Cubical%20Planet/solution.cpp) |
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
@@ -919,6 +921,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 17A | [Noldbach problem](https://codeforces.com/contest/17/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/17/A%20-%20Noldbach%20problem/solution.cpp) |
 | 26A | [Almost Prime](https://codeforces.com/contest/26/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/26/A%20-%20Almost%20Prime/solution.cpp) |
 | 59B | [Fortune Telling](https://codeforces.com/contest/59/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/59/B%20-%20Fortune%20Telling/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
