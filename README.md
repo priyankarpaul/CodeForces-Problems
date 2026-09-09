@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 434 | 27 |
+| 435 | 27 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (35)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (15)
-- [brute force](#brute-force) (76)
+- [brute force](#brute-force) (77)
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (49)
 - [data structures](#data-structures) (20)
@@ -32,8 +32,8 @@
 - [greedy](#greedy) (131)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (184)
-- [math](#math) (153)
-- [number theory](#number-theory) (41)
+- [math](#math) (154)
+- [number theory](#number-theory) (42)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (55)
@@ -216,6 +216,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
+| 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 | 2071B | [Perfecto](https://codeforces.com/contest/2071/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2071/B%20-%20Perfecto/solution.cpp) |
 | 2164B | [Even Modulo Pair](https://codeforces.com/contest/2164/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2164/B%20-%20Even%20Modulo%20Pair/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
@@ -887,6 +888,7 @@
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
+| 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 | 1987A | [Upload More RAM](https://codeforces.com/contest/1987/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1987/A%20-%20Upload%20More%20RAM/solution.cpp) |
 | 2044D | [Harder Problem](https://codeforces.com/contest/2044/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2044/D%20-%20Harder%20Problem/solution.cpp) |
 | 2071B | [Perfecto](https://codeforces.com/contest/2071/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2071/B%20-%20Perfecto/solution.cpp) |
@@ -956,6 +958,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1968C | [Assembly via Remainders](https://codeforces.com/contest/1968/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1968/C%20-%20Assembly%20via%20Remainders/solution.cpp) |
+| 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 | 2164B | [Even Modulo Pair](https://codeforces.com/contest/2164/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2164/B%20-%20Even%20Modulo%20Pair/solution.cpp) |
 | 2204C | [Spring](https://codeforces.com/contest/2204/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2204/C%20-%20Spring/solution.cpp) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
