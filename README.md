@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 428 | 27 |
+| 430 | 27 |
 
 ---
 
@@ -16,24 +16,24 @@
 - [Uncategorized](#uncategorized) (35)
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (15)
-- [brute force](#brute-force) (72)
+- [brute force](#brute-force) (73)
 - [combinatorics](#combinatorics) (8)
-- [constructive algorithms](#constructive-algorithms) (47)
+- [constructive algorithms](#constructive-algorithms) (48)
 - [data structures](#data-structures) (20)
-- [dfs and similar](#dfs-and-similar) (3)
+- [dfs and similar](#dfs-and-similar) (4)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (28)
+- [dp](#dp) (29)
 - [dsu](#dsu) (2)
 - [fft](#fft) (1)
 - [games](#games) (9)
 - [geometry](#geometry) (9)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (129)
+- [greedy](#greedy) (130)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (183)
-- [math](#math) (150)
-- [number theory](#number-theory) (38)
+- [math](#math) (151)
+- [number theory](#number-theory) (39)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (55)
@@ -225,6 +225,7 @@
 | 2233C | [Cost of a Bracket Sequence](https://codeforces.com/contest/2233/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2233/C%20-%20Cost%20of%20a%20Bracket%20Sequence/solution.cpp) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.cpp) |
+| 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 
 ### combinatorics
 
@@ -290,6 +291,7 @@
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
+| 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 
 ### data structures
 
@@ -323,6 +325,7 @@
 | 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
 | 500A | [New Year Transportation](https://codeforces.com/contest/500/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/500/A%20-%20New%20Year%20Transportation/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 
 ### divide and conquer
 
@@ -362,6 +365,7 @@
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 | 2233C | [Cost of a Bracket Sequence](https://codeforces.com/contest/2233/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2233/C%20-%20Cost%20of%20a%20Bracket%20Sequence/solution.cpp) |
 | 2236D | [Brand New Tatar TV Show](https://codeforces.com/contest/2236/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2236/D%20-%20Brand%20New%20Tatar%20TV%20Show/solution.cpp) |
+| 2260D | [Signs of Prefix Sums](https://codeforces.com/contest/2260/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2260/D%20-%20Signs%20of%20Prefix%20Sums/solution.cpp) |
 
 ### dsu
 
@@ -502,6 +506,7 @@
 | 1705B | [Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1705/B%20-%20Mark%20the%20Dust%20Sweeper/solution.cpp) |
 | 1749B | [Death's Blessing](https://codeforces.com/contest/1749/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1749/B%20-%20Death's%20Blessing/solution.cpp) |
 | 1759C | [Thermostat](https://codeforces.com/contest/1759/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1759/C%20-%20Thermostat/solution.cpp) |
+| 1762A | [Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1762/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 1767D | [Playoff](https://codeforces.com/contest/1767/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1767/D%20-%20Playoff/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
@@ -856,6 +861,7 @@
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
 | 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.cpp) |
 | 1759C | [Thermostat](https://codeforces.com/contest/1759/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1759/C%20-%20Thermostat/solution.cpp) |
+| 1762A | [Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1762/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 1767D | [Playoff](https://codeforces.com/contest/1767/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1767/D%20-%20Playoff/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
@@ -936,6 +942,7 @@
 | 1629B | [GCD Arrays](https://codeforces.com/contest/1629/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1629/B%20-%20GCD%20Arrays/solution.cpp) |
 | 1658B | [Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1658/B%20-%20Marin%20and%20Anti-coprime%20Permutation/solution.cpp) |
 | 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.cpp) |
+| 1762A | [Divide and Conquer](https://codeforces.com/contest/1762/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1762/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1968C | [Assembly via Remainders](https://codeforces.com/contest/1968/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1968/C%20-%20Assembly%20via%20Remainders/solution.cpp) |
