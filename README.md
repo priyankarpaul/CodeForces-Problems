@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 438 | 27 |
+| 439 | 27 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [binary search](#binary-search) (23)
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (78)
-- [combinatorics](#combinatorics) (8)
+- [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (51)
 - [data structures](#data-structures) (20)
 - [dfs and similar](#dfs-and-similar) (4)
@@ -31,12 +31,12 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (131)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (185)
-- [math](#math) (156)
+- [implementation](#implementation) (186)
+- [math](#math) (157)
 - [number theory](#number-theory) (43)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (55)
+- [sortings](#sortings) (56)
 - [strings](#strings) (43)
 - [two pointers](#two-pointers) (9)
 
@@ -238,6 +238,7 @@
 |---|---------|------------|----------|
 | 131C | [The World is a Theatre](https://codeforces.com/contest/131/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/131/C%20-%20The%20World%20is%20a%20Theatre/solution.cpp) |
 | 630C | [Lucky Numbers](https://codeforces.com/contest/630/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/630/C%20-%20Lucky%20Numbers/solution.cpp) |
+| 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
 | 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.cpp) |
 | 1658B | [Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1658/B%20-%20Marin%20and%20Anti-coprime%20Permutation/solution.cpp) |
 | 1666F | [Fancy Stack](https://codeforces.com/contest/1666/problem/F) | 2200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1666/F%20-%20Fancy%20Stack/solution.cpp) |
@@ -701,6 +702,7 @@
 | 808A | [Lucky Year](https://codeforces.com/contest/808/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/808/A%20-%20Lucky%20Year/solution.cpp) |
 | 812A | [Sagheer and Crossroads](https://codeforces.com/contest/812/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/812/A%20-%20Sagheer%20and%20Crossroads/solution.cpp) |
 | 816A | [Karen and Morning](https://codeforces.com/contest/816/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/816/A%20-%20Karen%20and%20Morning/solution.cpp) |
+| 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
 | 825A | [Binary Protocol](https://codeforces.com/contest/825/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/825/A%20-%20Binary%20Protocol/solution.cpp) |
 | 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
 | 888C | [K-Dominant Character](https://codeforces.com/contest/888/problem/C) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/888/C%20-%20K-Dominant%20Character/solution.cpp) |
@@ -811,6 +813,7 @@
 | 700A | [As Fast As Possible](https://codeforces.com/contest/700/problem/A) | 1900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/700/A%20-%20As%20Fast%20As%20Possible/solution.cpp) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 762A | [k-th divisor](https://codeforces.com/contest/762/problem/A) | 1400 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/762/A%20-%20k-th%20divisor/solution.cpp) |
+| 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
 | 841B | [Godsend](https://codeforces.com/contest/841/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/841/B%20-%20Godsend/solution.cpp) |
 | 996B | [World Cup](https://codeforces.com/contest/996/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/996/B%20-%20World%20Cup/solution.cpp) |
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
@@ -1023,6 +1026,7 @@
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 792A | [New Bus Route](https://codeforces.com/contest/792/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/792/A%20-%20New%20Bus%20Route/solution.cpp) |
 | 802M1 | [April Fools' Problem (easy)](https://codeforces.com/contest/802/problem/M1) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/802/M1%20-%20April%20Fools'%20Problem%20(easy)/solution.cpp) |
+| 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
 | 977C | [Less or Equal](https://codeforces.com/contest/977/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/977/C%20-%20Less%20or%20Equal/solution.cpp) |
 | 984A | [Game](https://codeforces.com/contest/984/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/984/A%20-%20Game/solution.cpp) |
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
