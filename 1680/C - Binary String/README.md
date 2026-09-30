@@ -1,0 +1,22 @@
+<h2><a href="https://codeforces.com/contest/1680/problem/C" target="_blank" rel="noopener noreferrer">1680C — Binary String</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1600 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1680C](https://codeforces.com/contest/1680/problem/C) |
+
+## Topics
+`binary search` `greedy` `strings` `two pointers`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. Binary String</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>512 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given a string $$$s$$$ consisting of characters <span class="tex-font-style-tt">0</span> and/or <span class="tex-font-style-tt">1</span>.</p><p>You have to remove several (possibly zero) characters from the beginning of the string, and then several (possibly zero) characters from the end of the string. <span class="tex-font-style-bf">The string may become empty after the removals</span>. The cost of the removal is the <span class="tex-font-style-bf">maximum</span> of the following two values:</p><ul> <li> the number of characters <span class="tex-font-style-tt">0</span> left in the string; </li><li> the number of characters <span class="tex-font-style-tt">1</span> removed from the string. </li></ul><p>What is the <span class="tex-font-style-bf">minimum</span> cost of removal you can achieve?</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains one integer $$$t$$$ ($$$1 \le t \le 10^4$$$) — the number of test cases.</p><p>Each test case consists of one line containing the string $$$s$$$ ($$$1 \le |s| \le 2 \cdot 10^5$$$), consisting of characters <span class="tex-font-style-tt">0</span> and/or <span class="tex-font-style-tt">1</span>.</p><p>The total length of strings $$$s$$$ in all test cases does not exceed $$$2 \cdot 10^5$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print one integer — the minimum cost of removal you can achieve.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007759458665601311" id="id005642728188647732" class="input-output-copier">Copy</div></div><pre id="id007759458665601311"><div class="test-example-line test-example-line-even test-example-line-0">5</div><div class="test-example-line test-example-line-odd test-example-line-1">101110110</div><div class="test-example-line test-example-line-even test-example-line-2">1001001001001</div><div class="test-example-line test-example-line-odd test-example-line-3">0000111111</div><div class="test-example-line test-example-line-even test-example-line-4">00000</div><div class="test-example-line test-example-line-odd test-example-line-5">1111</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0045891443864195147" id="id005019698808041554" class="input-output-copier">Copy</div></div><pre id="id0045891443864195147">1
+3
+0
+0
+0
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>Consider the test cases of the example:</p><ol> <li> in the first test case, it's possible to remove two characters from the beginning and one character from the end. Only one <span class="tex-font-style-tt">1</span> is deleted, only one <span class="tex-font-style-tt">0</span> remains, so the cost is $$$1$$$; </li><li> in the second test case, it's possible to remove three characters from the beginning and six characters from the end. Two characters <span class="tex-font-style-tt">0</span> remain, three characters <span class="tex-font-style-tt">1</span> are deleted, so the cost is $$$3$$$; </li><li> in the third test case, it's optimal to remove four characters from the beginning; </li><li> in the fourth test case, it's optimal to remove the whole string; </li><li> in the fifth test case, it's optimal to leave the string as it is. </li></ol></div>
