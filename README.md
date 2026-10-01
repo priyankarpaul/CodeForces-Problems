@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 442 | 27 |
+| 443 | 27 |
 
 ---
 
@@ -32,8 +32,8 @@
 - [greedy](#greedy) (133)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (186)
-- [math](#math) (157)
-- [number theory](#number-theory) (43)
+- [math](#math) (158)
+- [number theory](#number-theory) (44)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (57)
@@ -862,6 +862,7 @@
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1547A | [Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1547/A%20-%20Shortest%20Path%20with%20Obstacle/solution.cpp) |
+| 1549A | [Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1549/A%20-%20Gregor%20and%20Cryptography/solution.cpp) |
 | 1550B | [Maximum Cost Deletion](https://codeforces.com/contest/1550/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1550/B%20-%20Maximum%20Cost%20Deletion/solution.cpp) |
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
@@ -963,6 +964,7 @@
 | 1535B | [Array Reodering](https://codeforces.com/contest/1535/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1535/B%20-%20Array%20Reodering/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
+| 1549A | [Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1549/A%20-%20Gregor%20and%20Cryptography/solution.cpp) |
 | 1593D1 | [All are Same](https://codeforces.com/contest/1593/problem/D1) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1593/D1%20-%20All%20are%20Same/solution.cpp) |
 | 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
 | 1627D | [Not Adding](https://codeforces.com/contest/1627/problem/D) | 1900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1627/D%20-%20Not%20Adding/solution.cpp) |
