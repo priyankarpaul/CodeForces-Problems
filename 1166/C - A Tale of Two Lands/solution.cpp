@@ -9,6 +9,21 @@ using namespace std;
 #define pb              push_back
 const ll MOD = 1e9+7;
  
+ll upperBound(vector<ll>& arr,ll t){
+    ll low=0;
+    ll high=arr.size()-1;
+    ll res=arr.size();
+    while(low<=high){
+        ll mid=low+(high-low)/2;
+        if(arr[mid]>t){
+            res=mid;
+            high=mid-1;
+        }
+        else low=mid+1;
+    }
+    return res;
+}
+ 
 void solve(){
  
     ll n;
@@ -18,16 +33,14 @@ void solve(){
         cin>>arr[i];
         arr[i]=abs(arr[i]);
     }
-    sort(arr.begin(),arr.end());
-    ll ans=0;
     ll count=0;
+    sort(arr.begin(),arr.end());
     
     for(int i=0;i<n;i++){
-        auto upper=upper_bound(arr.begin(),arr.end(),2*arr[i]);
- 
-        count+=upper-arr.begin()-i-1;
-        ans+=count;
+        auto upper=upperBound(arr,arr[i]*2);
+        count+=upper-i-1;
     }
+    
     cout<<count<<"
 ";
 }
