@@ -9,11 +9,11 @@ using namespace std;
 #define pb              push_back
 const ll MOD = 1e9+7;
  
-bool check(ll x,const vector<ll>& arr,const vector<ll>& tower,ll n,ll m){
+bool check(ll x,vector<ll>& cities,vector<ll>& tower,ll n,ll m){
     ll i=0;
     ll j=0;
     while(i<n&&j<m){
-        if(abs(arr[i]-tower[j])<=x) i++;
+        if(abs(tower[j]-cities[i])<=x) i++;
         else j++;
     }
     if(i==n) return true;
@@ -22,21 +22,23 @@ bool check(ll x,const vector<ll>& arr,const vector<ll>& tower,ll n,ll m){
  
  
 void solve(){
+ 
     ll n,m;
     cin>>n>>m;
-    vector<ll> arr(n);
+    vector<ll> cities(n);
     vector<ll> tower(m);
-    for(int i=0;i<n;i++) cin>>arr[i];
+    for(int i=0;i<n;i++) cin>>cities[i];
     for(int i=0;i<m;i++) cin>>tower[i];
  
     ll low=0;
-    ll high=1e18;
+    ll high=2e9;
     ll ans=-1;
+ 
     while(low<=high){
         ll mid=low+(high-low)/2;
-        if(check(mid,arr,tower,n,m)){
-          ans=mid;
-          high=mid-1;
+        if(check(mid,cities,tower,n,m)){
+            ans=mid;
+            high=mid-1;
         }
         else low=mid+1;
     }
