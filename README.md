@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 454 | 27 |
+| 455 | 27 |
 
 ---
 
@@ -29,9 +29,9 @@
 - [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (136)
+- [greedy](#greedy) (137)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (192)
+- [implementation](#implementation) (193)
 - [math](#math) (161)
 - [number theory](#number-theory) (45)
 - [probabilities](#probabilities) (2)
@@ -458,6 +458,7 @@
 |---|---------|------------|----------|
 | 6C | [Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/6/C%20-%20Alice%2C%20Bob%20and%20Chocolate/solution.cpp) |
 | 12C | [Fruits](https://codeforces.com/contest/12/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/12/C%20-%20Fruits/solution.cpp) |
+| 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/34/B%20-%20Sale/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
@@ -616,6 +617,7 @@
 | 25B | [Phone numbers](https://codeforces.com/contest/25/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/25/B%20-%20Phone%20numbers/solution.cpp) |
 | 27A | [Next Test](https://codeforces.com/contest/27/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/27/A%20-%20Next%20Test/solution.cpp) |
 | 31A | [Worms Evolution](https://codeforces.com/contest/31/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/31/A%20-%20Worms%20Evolution/solution.cpp) |
+| 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 | 36A | [Extra-terrestrial Intelligence](https://codeforces.com/contest/36/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/36/A%20-%20Extra-terrestrial%20Intelligence/solution.cpp) |
 | 40A | [Find Color](https://codeforces.com/contest/40/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/40/A%20-%20Find%20Color/solution.cpp) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
