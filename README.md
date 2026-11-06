@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 458 | 27 |
+| 459 | 27 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (137)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (193)
+- [implementation](#implementation) (194)
 - [math](#math) (161)
 - [number theory](#number-theory) (45)
 - [probabilities](#probabilities) (2)
@@ -657,6 +657,7 @@
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 202A | [LLPS](https://codeforces.com/contest/202/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/202/A%20-%20LLPS/solution.cpp) |
 | 219A | [k-String](https://codeforces.com/contest/219/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/219/A%20-%20k-String/solution.cpp) |
+| 221B | [Little Elephant and Numbers](https://codeforces.com/contest/221/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/221/B%20-%20Little%20Elephant%20and%20Numbers/solution.cpp) |
 | 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/227/B%20-%20Effective%20Approach/solution.cpp) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
