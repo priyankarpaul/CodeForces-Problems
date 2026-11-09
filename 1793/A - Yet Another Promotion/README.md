@@ -1,0 +1,22 @@
+<h2><a href="https://codeforces.com/contest/1793/problem/A" target="_blank" rel="noopener noreferrer">1793A — Yet Another Promotion</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1793A](https://codeforces.com/contest/1793/problem/A) |
+
+## Topics
+`greedy` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Yet Another Promotion</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>The famous store "Second Food" sells groceries only two days a month. And the prices in each of days differ. You wanted to buy $$$n$$$ kilos of potatoes for a month. You know that on the first day of the month $$$1$$$ kilo of potatoes costs $$$a$$$ coins, and on the second day $$$b$$$ coins. In "Second Food" you can buy any <span class="tex-font-style-bf">integer</span> kilograms of potatoes.</p><p>Fortunately, "Second Food" has announced a promotion for potatoes, which is valid only on the first day of the month — for each $$$m$$$ kilos of potatoes you buy, you get $$$1$$$ kilo as a gift! In other words, you can get $$$m + 1$$$ kilograms by paying for $$$m$$$ kilograms.</p><p>Find the minimum number of coins that you have to spend to buy <span class="tex-font-style-bf">at least</span> $$$n$$$ kilos of potatoes.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 10\,000$$$). Description of the test cases follows.</p><p>The first line of each test case contains two integers $$$a$$$ and $$$b$$$ $$$(1 \leq a, b \leq 10^9)$$$ — the prices of $$$1$$$ kilo of potatoes on the first and second days, respectively.</p><p>The second line contains two integers $$$n$$$ and $$$m$$$ $$$(1 \leq n, m \leq 10^9)$$$ — the required amount of potatoes to buy and the amount of potatoes to use the promotion.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case print one integer — the minimum number of coins that you have to pay to buy at least $$$n$$$ kilos of potatoes.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003614000549334997" id="id0007873667130603423" class="input-output-copier">Copy</div></div><pre id="id003614000549334997"><div class="test-example-line test-example-line-even test-example-line-0">5</div><div class="test-example-line test-example-line-odd test-example-line-1">5 4</div><div class="test-example-line test-example-line-odd test-example-line-1">3 1</div><div class="test-example-line test-example-line-even test-example-line-2">5 4</div><div class="test-example-line test-example-line-even test-example-line-2">3 2</div><div class="test-example-line test-example-line-odd test-example-line-3">3 4</div><div class="test-example-line test-example-line-odd test-example-line-3">3 5</div><div class="test-example-line test-example-line-even test-example-line-4">20 15</div><div class="test-example-line test-example-line-even test-example-line-4">10 2</div><div class="test-example-line test-example-line-odd test-example-line-5">1000000000 900000000</div><div class="test-example-line test-example-line-odd test-example-line-5">1000000000 8</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0035950314738971545" id="id0036622699531854264" class="input-output-copier">Copy</div></div><pre id="id0035950314738971545">9
+10
+9
+135
+888888888900000000
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, on the first day you buy $$$1$$$ kilo and get $$$1$$$ more for a promotion. On the second day, you can buy $$$1$$$ kilo of potatoes. Thus, you will spend $$$5+4=9$$$ coins in total.</p><p>In the second test case, on the first day you buy $$$2$$$ kilo and get another $$$1$$$ more for a promotion. This way you will spend $$$2 \cdot 5 = 10$$$ coins.</p></div>
