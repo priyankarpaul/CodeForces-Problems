@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 460 | 27 |
+| 461 | 27 |
 
 ---
 
@@ -29,10 +29,10 @@
 - [geometry](#geometry) (10)
 - [graph matchings](#graph-matchings) (5)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (138)
+- [greedy](#greedy) (139)
 - [hashing](#hashing) (3)
 - [implementation](#implementation) (195)
-- [math](#math) (161)
+- [math](#math) (162)
 - [number theory](#number-theory) (45)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
@@ -547,6 +547,7 @@
 | 1767D | [Playoff](https://codeforces.com/contest/1767/problem/D) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1767/D%20-%20Playoff/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
+| 1793A | [Yet Another Promotion](https://codeforces.com/contest/1793/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1793/A%20-%20Yet%20Another%20Promotion/solution.cpp) |
 | 1798B | [Three Sevens](https://codeforces.com/contest/1798/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1798/B%20-%20Three%20Sevens/solution.cpp) |
 | 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
 | 1815A | [Ian and Array Sorting](https://codeforces.com/contest/1815/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1815/A%20-%20Ian%20and%20Array%20Sorting/solution.cpp) |
@@ -923,6 +924,7 @@
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1788B | [Sum of Two Numbers](https://codeforces.com/contest/1788/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1788/B%20-%20Sum%20of%20Two%20Numbers/solution.cpp) |
 | 1790C | [Premutation](https://codeforces.com/contest/1790/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1790/C%20-%20Premutation/solution.cpp) |
+| 1793A | [Yet Another Promotion](https://codeforces.com/contest/1793/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1793/A%20-%20Yet%20Another%20Promotion/solution.cpp) |
 | 1815A | [Ian and Array Sorting](https://codeforces.com/contest/1815/problem/A) | 1300 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1815/A%20-%20Ian%20and%20Array%20Sorting/solution.cpp) |
 | 1833C | [Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1833/C%20-%20Vlad%20Building%20Beautiful%20Array/solution.cpp) |
 | 1857E | [Power of Points](https://codeforces.com/contest/1857/problem/E) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1857/E%20-%20Power%20of%20Points/solution.cpp) |
