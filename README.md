@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 461 | 27 |
+| 462 | 27 |
 
 ---
 
@@ -31,8 +31,8 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (139)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (195)
-- [math](#math) (162)
+- [implementation](#implementation) (196)
+- [math](#math) (163)
 - [number theory](#number-theory) (45)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
@@ -806,6 +806,7 @@
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
+| 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 
 ### math
 
@@ -973,6 +974,7 @@
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2276C | [Subarrays](https://codeforces.com/contest/2276/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2276/C%20-%20Subarrays/solution.cpp) |
+| 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 
 ### number theory
 
