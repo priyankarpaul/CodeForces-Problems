@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 462 | 27 |
+| 463 | 27 |
 
 ---
 
@@ -31,13 +31,13 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (139)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (196)
+- [implementation](#implementation) (197)
 - [math](#math) (163)
 - [number theory](#number-theory) (45)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
 - [sortings](#sortings) (58)
-- [strings](#strings) (46)
+- [strings](#strings) (47)
 - [two pointers](#two-pointers) (12)
 
 ---
@@ -807,6 +807,7 @@
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2230/B%20-%20Digit%20String/solution.cpp) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
+| 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
 
 ### math
 
@@ -1153,6 +1154,7 @@
 | 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.cpp) |
 | 2214D | [Neural Feud](https://codeforces.com/contest/2214/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2214/D%20-%20Neural%20Feud/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
+| 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
 
 ### two pointers
 
