@@ -3,36 +3,112 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-#define ll              long long int
+#define ll              long long 
 #define ff              first
 #define ss              second
 #define pb              push_back
-const ll MOD = 1e9 + 7;
+const ll MOD = 1e9+7;
  
-void solve() {
+const vector<ll> root={0,1,-1,-1,-1,-1,9,-1,8,6};
+ 
+ 
+bool binarySearch(vector<ll>& s,ll target){
+    ll n=s.size();
+    ll low=0;
+    ll high=n-1;
+    while(low<=high){
+        ll mid=low+(high-low)/2;
+        if(s[mid]==target) return true;
+        else if(s[mid]<target) low=mid+1;
+        else high=mid-1;
+    }
+    return false;
+}
+ 
+ll fact(ll n){
+    ll f=1;
+    for(int i=1;i<=n;i++){
+        f*=i;
+    }
+    return f;
+}
+    string key="PgEfTYaWGHjDAmxQqFLRpCJBownyUKZXkbvzIdshurMilNSVOtec#@_!=.+-*/";
+    string original="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+    ll keySize=key.size();
+    ll originalSize=original.size();
+ 
+ll index(char s){
+    for(int i=0;i<originalSize;i++){
+        if(original[i]==s) return i;
+    }
+    return -1;
+}
+ 
+ll index2(char s){
+    for(int i=0;i<keySize;i++){
+        if(key[i]==s) return i;
+    }
+    return -1;
+}
+ 
+ll gcd1(ll a,ll b){
+    while(b!=0){
+        ll temp=b;
+        b=a%b;
+        a=temp;
+    }
+    return a;
+}
+ 
+ll lcm1(ll a,ll b){
+    if(a==0||b==0) return 0;
+    return (a/gcd1(a,b))*b;
+}
+ 
+bool check(ll x,ll k,vector<ll>& arr){
+    ll studentCount=1;
+    ll currentPages=0;
+ 
+    for(auto pages:arr){
+        if(pages>x) return false;
+        if(currentPages+pages<=x){
+            currentPages+=pages;
+        }
+        else{
+            studentCount++;
+            currentPages=pages;
+            if(studentCount>k) return false;
+        }
+    }
+    return true;
+}
+ 
+void solve(){
+    
     ll n;
     cin>>n;
+    
+ 
     for(int i=0;i<n;i++){
-       ll x;
-       cin>>x;
-       if(x==1){
-        cout<<"HARD
+        ll x;cin>>x;
+        if(x==1){
+            cout<<"HARD
 ";
-        return;
-       }
+            return;
+        }
     }
+ 
     cout<<"EASY
 ";
-}
+ 
+    
+ 
+}   
 int main(){
     ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-#ifndef ONLINE_JUDGE
-    freopen("input.txt",  "r",  stdin);
-    freopen("output.txt", "w", stdout);
-#endif
-    int t = 1;
-    //cin >> t;
-    while (t--) {
+    int t=1;
+    //cin>>t;
+    while(t--){
         solve();
     }
     return 0;
