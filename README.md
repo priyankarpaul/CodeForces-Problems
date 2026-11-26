@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 469 | 27 |
+| 470 | 27 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (141)
 - [hashing](#hashing) (3)
-- [implementation](#implementation) (199)
+- [implementation](#implementation) (200)
 - [math](#math) (164)
 - [number theory](#number-theory) (45)
 - [probabilities](#probabilities) (2)
@@ -787,6 +787,7 @@
 | 1560C | [Infinity Table](https://codeforces.com/contest/1560/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1560/C%20-%20Infinity%20Table/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1666F | [Fancy Stack](https://codeforces.com/contest/1666/problem/F) | 2200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1666/F%20-%20Fancy%20Stack/solution.cpp) |
+| 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
 | 1672C | [Unequal Array](https://codeforces.com/contest/1672/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1672/C%20-%20Unequal%20Array/solution.cpp) |
 | 1705B | [Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1705/B%20-%20Mark%20the%20Dust%20Sweeper/solution.cpp) |
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
