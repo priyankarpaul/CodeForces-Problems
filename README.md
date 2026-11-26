@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 468 | 27 |
+| 469 | 27 |
 
 ---
 
@@ -36,8 +36,8 @@
 - [number theory](#number-theory) (45)
 - [probabilities](#probabilities) (2)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (60)
-- [strings](#strings) (47)
+- [sortings](#sortings) (61)
+- [strings](#strings) (48)
 - [two pointers](#two-pointers) (12)
 
 ---
@@ -1087,6 +1087,7 @@
 | 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
 | 977C | [Less or Equal](https://codeforces.com/contest/977/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/977/C%20-%20Less%20or%20Equal/solution.cpp) |
 | 984A | [Game](https://codeforces.com/contest/984/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/984/A%20-%20Game/solution.cpp) |
+| 988B | [Substrings Sort](https://codeforces.com/contest/988/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/988/B%20-%20Substrings%20Sort/solution.cpp) |
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1166C | [A Tale of Two Lands](https://codeforces.com/contest/1166/problem/C) | 1500 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1166/C%20-%20A%20Tale%20of%20Two%20Lands/solution.cpp) |
 | 1174A | [Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1174/A%20-%20Ehab%20Fails%20to%20Be%20Thanos/solution.cpp) |
@@ -1145,6 +1146,7 @@
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 877A | [Alex and broken contest](https://codeforces.com/contest/877/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/877/A%20-%20Alex%20and%20broken%20contest/solution.cpp) |
 | 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/977/B%20-%20Two-gram/solution.cpp) |
+| 988B | [Substrings Sort](https://codeforces.com/contest/988/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/988/B%20-%20Substrings%20Sort/solution.cpp) |
 | 1038A | [Equality](https://codeforces.com/contest/1038/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1038/A%20-%20Equality/solution.cpp) |
 | 1073A | [Diverse Substring](https://codeforces.com/contest/1073/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1073/A%20-%20Diverse%20Substring/solution.cpp) |
 | 1201A | [Important Exam](https://codeforces.com/contest/1201/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/1201/A%20-%20Important%20Exam/solution.cpp) |
