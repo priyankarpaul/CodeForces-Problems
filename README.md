@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 471 | 27 |
+| 472 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (14)
-- [Uncategorized](#uncategorized) (40)
+- [Uncategorized](#uncategorized) (41)
 - [binary search](#binary-search) (29)
 - [bitmasks](#bitmasks) (17)
 - [brute force](#brute-force) (83)
@@ -104,6 +104,7 @@
 | 2272C | [Yet Another Black Cell Problem](https://codeforces.com/contest/2272/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2272/C%20-%20Yet%20Another%20Black%20Cell%20Problem/solution.cpp) |
 | 2285B | [Diverse String](https://codeforces.com/contest/2285/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2285/B%20-%20Diverse%20String/solution.cpp) |
 | 2292B | [Grapefruit Juice](https://codeforces.com/contest/2292/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2292/B%20-%20Grapefruit%20Juice/solution.cpp) |
+| 2292C | [Finding Shapes in the Clouds](https://codeforces.com/contest/2292/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2292/C%20-%20Finding%20Shapes%20in%20the%20Clouds/solution.cpp) |
 | 102961ZE | [Array Division](https://codeforces.com/contest/102961/problem/ZE) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/102961/ZE%20-%20Array%20Division/solution.cpp) |
 
 ### binary search
