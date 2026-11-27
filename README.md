@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 470 | 27 |
+| 471 | 27 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (14)
-- [Uncategorized](#uncategorized) (39)
+- [Uncategorized](#uncategorized) (40)
 - [binary search](#binary-search) (29)
 - [bitmasks](#bitmasks) (17)
 - [brute force](#brute-force) (83)
@@ -103,6 +103,7 @@
 | 2272B | [Frogs Jump](https://codeforces.com/contest/2272/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2272/B%20-%20Frogs%20Jump/solution.cpp) |
 | 2272C | [Yet Another Black Cell Problem](https://codeforces.com/contest/2272/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2272/C%20-%20Yet%20Another%20Black%20Cell%20Problem/solution.cpp) |
 | 2285B | [Diverse String](https://codeforces.com/contest/2285/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2285/B%20-%20Diverse%20String/solution.cpp) |
+| 2292B | [Grapefruit Juice](https://codeforces.com/contest/2292/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/2292/B%20-%20Grapefruit%20Juice/solution.cpp) |
 | 102961ZE | [Array Division](https://codeforces.com/contest/102961/problem/ZE) | Unrated | [C++17 (GCC 7-32)](https://github.com/priyankarpaul/CodeForces-Problems/blob/HEAD/102961/ZE%20-%20Array%20Division/solution.cpp) |
 
 ### binary search
